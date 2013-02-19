@@ -45,13 +45,13 @@
         {
             "geometry": {
                 "coordinates": [
-                    -3.51962931128154, 
-                    50.4640913244221
+                    -0.0487037044641291, 
+                    51.4801137087269
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "name": "55 Hunsdon Road, London, United Kingdom", 
+                "name": "55 Hunsdon Road, New Cross Gate, London, United Kingdom", 
                 "show_on_map": true
             }, 
             "type": "Feature"
@@ -381,14 +381,14 @@
         {
             "geometry": {
                 "coordinates": [
-                    null, 
-                    null
+                    10.4180218056427, 
+                    44.4392053281984
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "name": "Castel Novo, Italy", 
-                "show_on_map": false
+                "name": "Castelnovo Ne' Monti, Italy", 
+                "show_on_map": true
             }, 
             "type": "Feature"
         }, 
@@ -626,20 +626,6 @@
             }, 
             "properties": {
                 "name": "Punta Cana, Dominican Republic", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    126.8528403, 
-                    35.1596509
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Gwangju, South Korea", 
                 "show_on_map": true
             }, 
             "type": "Feature"

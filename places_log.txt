@@ -1,7 +1,7 @@
 Fira Palace, Barcelona, Spain
 Vico dei Maiorani, 80138 Naples, Campania, Italy
 Via Giovanni da Procida, Chiaiolella, Procida
-55 Hunsdon Road, London, United Kingdom
+55 Hunsdon Road, New Cross Gate, London, United Kingdom
 12 Rue de Dantzig, 75015, Paris
 4 Rue Buot, 75013, Paris
 Munster, France
@@ -25,7 +25,7 @@ Gyeongju, South Korea
 Firenze, Italy
 Bologna, Italy
 Parme, Italy
-Castel Novo, Italy
+Castelnovo Ne' Monti, Italy
 Pisa, Italy
 Venise, Italy
 Siena, Italy
