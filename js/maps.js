@@ -16,6 +16,18 @@ function addFeature(feature){
         filter: show,
     }).addTo(map);
 }
+
+function addData(){
+    $.getJSON('places.geojson', function(data) {
+        var i = 0;
+        var add_feat = setInterval(function() {
+            var feat = data.features[i++];
+            addFeature(feat);
+            if(i >= data.features.length) clearInterval(add_feat);
+        }, 30);
+    });
+}
+
 window.onload = function() {
     map = L.map('map').setView([23.26, 0], 3);
     L.tileLayer("http://{s}.tiles.mapbox.com/v3/examples.map-vyofok3q/{z}/{x}/{y}.png", {
@@ -23,10 +35,5 @@ window.onload = function() {
          subdomains: ["a", "b", "c", "d"],
          attribution: '<a href="http://mapbox.com/about/maps">Terms & Feedback</a>'
     }).addTo(map);
-
-   $.getJSON('places.geojson', function(data) {
-        $.each(data.features, function(i, feat) {
-            addFeature(feat);
-        });
-    });
+    map.whenReady(addData);
 }
