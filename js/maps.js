@@ -35,5 +35,6 @@ window.onload = function() {
          subdomains: ["a", "b", "c", "d"],
          attribution: '<a href="http://mapbox.com/about/maps">Terms & Feedback</a>'
     }).addTo(map);
+    L.Marker.mergeOptions({bounceOnAdd: true});
     map.whenReady(addData);
 }
