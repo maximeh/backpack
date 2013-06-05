@@ -629,6 +629,48 @@
                 "show_on_map": true
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    139.7685224, 
+                    35.6800712
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Tokyo, Japan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    135.763835, 
+                    35.0185804
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Kyoto, Japan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    135.8048359, 
+                    34.6845445
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Nara, Japan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
