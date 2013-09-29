@@ -1,4 +1,4 @@
-Rio de Janeiro, Brasil
+Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil
 Tokyo, Japan
 Kyoto, Japan
 Nara, Japan
@@ -39,7 +39,7 @@ Marrakesh, Maroco
 Lvov, Ukraine
 Kiev, Ukraine
 Hobart, Tasmania
-Sao Paulo, Brasil
+Sao Paulo, RMSP, SP, Brazil
 Zurich, Switzerland
 Inaciolandia, Brasil
 Sao Sebastiao, Brasil

@@ -521,20 +521,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -49.0232348, 
-                    -21.9549806
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Sao Paulo, Brasil", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     8.5404434, 
                     47.3685586
                 ], 
@@ -675,13 +661,41 @@
         {
             "geometry": {
                 "coordinates": [
-                    -42.419415, 
-                    -22.2752762
+                    -43.2093781, 
+                    -22.9112163
                 ], 
                 "type": "Point"
             }, 
             "properties": {
-                "name": "Rio de Janeiro, Brasil", 
+                "name": "Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -46.6339647, 
+                    -23.5503279
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Sao Paulo, RMSP, SP, Brazil", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5404434, 
+                    47.3685586
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Zurich, Switzerland", 
                 "show_on_map": true
             }, 
             "type": "Feature"
