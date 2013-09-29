@@ -671,6 +671,20 @@
                 "show_on_map": true
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -42.419415, 
+                    -22.2752762
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Rio de Janeiro, Brasil", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
