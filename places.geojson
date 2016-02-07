@@ -787,20 +787,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -0.8893293,
-                    48.8385198
-                ],
-                "type": "Point"
-            },
-            "properties": {
-                "name": "Vire, France",
-                "show_on_map": true
-            },
-            "type": "Feature"
-        },
-        {
-            "geometry": {
-                "coordinates": [
                     4.3542,
                     46.6762
                 ],
@@ -850,6 +836,48 @@
             },
             "properties": {
                 "name": "21, allee de Brehat - 31770 Colomiers",
+                "show_on_map": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.5427093,
+                    25.0261583
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Le Blanc Taipei, Da\u2019an District, Taipei City, Taiwan",
+                "show_on_map": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    121.5654177,
+                    25.0329694
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan",
+                "show_on_map": true
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    120.9674752,
+                    24.8138297
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Lakeshore Hotel, Hsinchu, Taiwan",
                 "show_on_map": true
             },
             "type": "Feature"
