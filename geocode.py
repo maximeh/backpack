@@ -2,41 +2,54 @@
 # -*- coding: utf-8 -*-
 
 import json
-import os
 import sys
-from urllib import urlopen, urlencode
+if (sys.version_info > (3, 0)):
+    from urllib.request import urlopen
+    from urllib.parse import urlencode
+else:
+    from urllib import urlopen, urlencode
 
-NOMINATIM_URL = "http://open.mapquestapi.com/nominatim/v1/search?format=json&%s"
+URL = "https://maps.googleapis.com/maps/api/geocode/json?address=%s&key=%s"
 JSON_FILENAME = "places.geojson"
+KEY_FILENAME = "gmaps.key"
 
-def find_lat_lng(place):
-    point = { "type": "Feature",
-      "geometry": {"type": "Point", "coordinates": [None, None]},
-      "properties": {"name": place, 'show_on_map': False}
+def find_lat_lng(key, place):
+    point = {
+        "type": "Feature",
+        "geometry": {"type": "Point", "coordinates": [None, None]},
+        "properties": {"name": place, 'show_on_map': False}
     }
-    req = urlopen(NOMINATIM_URL % urlencode({'q':place}))
-    geo_value = json.loads(req.read())
-    if len(geo_value) > 0:
-        point["geometry"]["coordinates"] = [
-                float(geo_value[0]['lon']),
-                float(geo_value[0]['lat'])]
-        point["properties"]["show_on_map"] = True
+    req = urlopen(URL % (urlencode({'q':place}), key))
+    data = req.read().decode("utf-8")
+    if data == []:
+        return None
+    geo_value = json.loads(data)
+    if geo_value['status'] != "OK":
+        print("Could not find address for '%s'" % place)
+        return None
+    point["geometry"]["coordinates"] = [
+        float(geo_value['results'][0]['geometry']['location']['lng']),
+        float(geo_value['results'][0]['geometry']['location']['lat'])]
+    point["properties"]["show_on_map"] = True
     return point
 
 def main(path=""):
+
+    with open("%s%s" % (path, KEY_FILENAME), 'r') as key_file:
+        key = key_file.readline().strip()
 
     json_path = "%s%s" % (path, JSON_FILENAME)
     try:
         with open("%splaces_log.txt" % path, 'r') as places_file:
             places = places_file.readlines()
-        places = map(lambda s: s.strip(), places)
+            places = [pl.strip() for pl in places]
     except IOError as err:
-        print "I/O error({0}): {1}".format(err.errno, err.strerror)
+        print("I/O error({0}): {1}".format(err.errno, err.strerror))
         return 1
 
     places_gps = {
-            "type": "FeatureCollection",
-            "features": [],
+        "type": "FeatureCollection",
+        "features": [],
     }
 
     try:
@@ -57,7 +70,10 @@ def main(path=""):
 
     # Find the gps coordinates of the new places
     for pl in places:
-        places_gps['features'].append(find_lat_lng(pl))
+        point = find_lat_lng(key, pl)
+        if point is None:
+            continue
+        places_gps['features'].append(point)
 
     # Rewrite totally the file, it's slow but let us handle deleted entry
     # in places_log.txt easily
@@ -65,5 +81,5 @@ def main(path=""):
         places_file.write(json.dumps(places_gps, sort_keys=True, indent=4))
     return 0
 
-if __name__ == '__main__' :
+if __name__ == '__main__':
     sys.exit(main())
