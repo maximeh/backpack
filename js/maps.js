@@ -18,10 +18,10 @@ function addFeature(feature){
 }
 window.onload = function() {
     map = L.map('map').setView([23.26, 0], 3);
-    L.tileLayer("http://{s}.tiles.mapbox.com/v3/examples.map-i87786ca/{z}/{x}/{y}.png", {
-         maxZoom: 18,
+    L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+         maxZoom: 19,
          subdomains: ["a", "b", "c", "d"],
-         attribution: '<a href="http://mapbox.com/about/maps">Terms & Feedback</a>'
+	 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
    $.getJSON('places.geojson', function(data) {
