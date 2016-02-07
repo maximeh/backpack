@@ -34,10 +34,10 @@ window.onload = function() {
         position: 'topleft',
         title: 'Go Fullscreen!'
     }).addTo(map);
-    L.tileLayer("http://{s}.tiles.mapbox.com/v3/examples.map-i87786ca/{z}/{x}/{y}.png", {
-         maxZoom: 18,
+    L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
+         maxZoom: 19,
          subdomains: ["a", "b", "c", "d"],
-         attribution: '<a href="http://mapbox.com/about/maps">Terms & Feedback</a>'
+	 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
     L.Marker.mergeOptions({bounceOnAdd: true});
     map.whenReady(addData);
