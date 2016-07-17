@@ -20,7 +20,7 @@ window.onload = function() {
     map = L.map('map').setView([23.26, 0], 3);
     L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
          maxZoom: 19,
-         subdomains: ["a", "b", "c", "d"],
+         subdomains: ["a", "b", "c"],
 	 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
