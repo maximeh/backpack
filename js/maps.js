@@ -36,7 +36,7 @@ window.onload = function() {
     }).addTo(map);
     L.tileLayer("http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
          maxZoom: 19,
-         subdomains: ["a", "b", "c", "d"],
+         subdomains: ["a", "b", "c"],
 	 attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
     L.Marker.mergeOptions({bounceOnAdd: true});
