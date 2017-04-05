@@ -843,20 +843,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    121.5654177, 
-                    25.0329694
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     120.9674752, 
                     24.8138297
                 ], 
@@ -955,8 +941,246 @@
         {
             "geometry": {
                 "coordinates": [
-                    121.5427093, 
-                    25.0261583
+                    121.5654177, 
+                    25.0329694
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0623949, 
+                    42.3518285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Boston, Massachusetts, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -75.1652215, 
+                    39.9525839
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Philadeplhia, Pennsylvania, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -76.6121893, 
+                    39.2903848
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Baltimore, Maryland, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -77.0368707, 
+                    38.9071923
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Washington DC, Maryland, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.7816016, 
+                    36.1626638
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Nashville, Tennessee, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0489801, 
+                    35.1495343
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Memphis, Mississippi, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -86.5861037, 
+                    34.7303688
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Huntsville, Alabama, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.0688811, 
+                    29.9500014
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "New Orleans, Louisiana, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -95.374652, 
+                    29.7427
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Houston, Texas, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -90.255466, 
+                    38.71296
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Saint Louis, Missouri, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -87.6304158, 
+                    41.903606
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Chicago, Illinois, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -83.0457538, 
+                    42.331427
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Detroit, Michigan, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -79.3831843, 
+                    43.653226
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Toronto, Canada", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    13.322317, 
+                    52.502661
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Berlin, Allemagne", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.9936818, 
+                    53.5510846
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Hamburg, Allemagne", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -3.188267, 
+                    55.953252
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Edinburgh, United Kingdom", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    121.546166, 
+                    25.036153
                 ], 
                 "type": "Point"
             }, 
@@ -969,13 +1193,27 @@
         {
             "geometry": {
                 "coordinates": [
-                    121.5654177, 
-                    25.0329694
+                    121.543993, 
+                    25.059528
                 ], 
                 "type": "Point"
             }, 
             "properties": {
                 "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    120.968049, 
+                    24.774705
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Lakeshore Hotel, Hsinchu, Taiwan", 
                 "show_on_map": true
             }, 
             "type": "Feature"

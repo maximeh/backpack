@@ -1,3 +1,19 @@
+Boston, Massachusetts, USA
+Philadeplhia, Pennsylvania, USA
+Baltimore, Maryland, USA
+Washington DC, Maryland, USA
+Nashville, Tennessee, USA
+Memphis, Mississippi, USA
+Huntsville, Alabama, USA
+New Orleans, Louisiana, USA
+Houston, Texas, USA
+Saint Louis, Missouri, USA
+Chicago, Illinois, USA
+Detroit, Michigan, USA
+Toronto, Canada
+Berlin, Allemagne
+Hamburg, Allemagne
+Edinburgh, United Kingdom
 Santa Clara, California, USA
 Monterey, California, USA
 Santa Barbara, California, USA
