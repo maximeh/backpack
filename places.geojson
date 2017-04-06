@@ -941,20 +941,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    121.5654177, 
-                    25.0329694
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -71.0623949, 
                     42.3518285
                 ], 
@@ -1179,6 +1165,48 @@
         {
             "geometry": {
                 "coordinates": [
+                    121.543993, 
+                    25.059528
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.930395700000001, 
+                    52.3576206
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Amsterdam, Holland", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    -71.0623949, 
+                    42.3518285
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Boston, Massachusetts, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     121.546166, 
                     25.036153
                 ], 
@@ -1200,20 +1228,6 @@
             }, 
             "properties": {
                 "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    120.968049, 
-                    24.774705
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Lakeshore Hotel, Hsinchu, Taiwan", 
                 "show_on_map": true
             }, 
             "type": "Feature"
