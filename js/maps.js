@@ -1,8 +1,8 @@
 var map;
 
-function addLabel(feature, layer) {
+function addTooltip(feature, layer) {
     if (feature.properties && feature.properties.name) {
-        layer.bindLabel('<b>'+feature.properties.name+'</b>')
+        layer.bindTooltip('<b>'+feature.properties.name+'</b>')
     }
 }
 
@@ -12,7 +12,7 @@ function show(feature, layer){
 
 function addFeature(feature){
    L.geoJson(feature, {
-        onEachFeature: addLabel,
+        onEachFeature: addTooltip,
         filter: show,
     }).addTo(map);
 }
