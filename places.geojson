@@ -941,20 +941,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    -71.0623949, 
-                    42.3518285
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Boston, Massachusetts, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     -75.1652215, 
                     39.9525839
                 ], 
@@ -1165,20 +1151,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    121.543993, 
-                    25.059528
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     4.930395700000001, 
                     52.3576206
                 ], 
@@ -1200,6 +1172,174 @@
             }, 
             "properties": {
                 "name": "Boston, Massachusetts, USA", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    121.546166, 
+                    25.036153
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Le Blanc Taipei, Da\u2019an District, Taipei City, Taiwan", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    10.7522454, 
+                    59.9138688
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Oslo, Norway", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    19.9449799, 
+                    50.06465009999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Krakow, Poland", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    14.4174219, 
+                    50.0793982
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Prague, Czech Republic", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    79.861243, 
+                    6.9270786
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Colombo, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    80.2209773, 
+                    6.0535185
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Gale, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    80.5549561, 
+                    5.95492
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Matara, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    81.2876691, 
+                    6.2791538
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Tissamaharama, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    81.046553, 
+                    6.8666988
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Ella, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    80.6337262, 
+                    7.2905715
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Kandy, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    79.8736754, 
+                    7.200796799999999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Negombo, Sri Lanka", 
+                "show_on_map": true
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    4.930395700000001, 
+                    52.3576206
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "name": "Amsterdam, Holland", 
                 "show_on_map": true
             }, 
             "type": "Feature"
