@@ -10,16 +10,22 @@ function addTooltip(feature, layer) {
     }
 }
 
-function show(feature, layer){
-    return feature.properties.show_on_map;
+function markerBounce(event) {
+    event.target.bounce({height: 50});
 }
 
-function addFeature(feature){
+function addClickBounce(feature, latlng) {
+     marker = new L.Marker(latlng, {bounceOnAdd: true}).addTo(map);
+     marker.on('click', markerBounce);
+     return marker;
+}
+
+function addFeature(feature) {
    L.geoJson(feature, {
 	filter: show,
         onEachFeature: addTooltip,
-        filter: show,
-    }).addTo(map);
+        pointToLayer: addClickBounce,
+   }).addTo(map);
 }
 
 function addData() {
