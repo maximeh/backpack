@@ -17,6 +17,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    2.3123506,
+                    48.84519239999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"163 Rue de S\u00e8vres, 75015 Paris, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     1.3034137,
                     43.6228196
                 ],
@@ -38,6 +52,20 @@
             },
             "properties":{
                 "name":"4 Rue Buot, 75013, Paris",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    2.4426001,
+                    48.8579103
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"42 bis Rue Moliere, 93100 Montreuil, France",
                 "show_on_map":true
             },
             "type":"Feature"
