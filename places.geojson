@@ -1,1377 +1,1349 @@
 {
-    "features": [
+    "features":[
         {
-            "geometry": {
-                "coordinates": [
-                    2.1549746, 
-                    41.3726627
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Fira Palace, Barcelona, Spain", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    14.2589246, 
-                    40.850624
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Vico dei Maiorani, 80138 Naples, Campania, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    14.0102911, 
-                    40.7544149
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Via Giovanni da Procida, Chiaiolella, Procida", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.0485854, 
-                    51.4800981
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "55 Hunsdon Road, New Cross Gate, London, United Kingdom", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    2.2998525, 
+            "geometry":{
+                "coordinates":[
+                    2.2998525,
                     48.8348061
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "12 Rue de Dantzig, 75015, Paris", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"12 Rue de Dantzig, 75015, Paris",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    2.3487305, 
-                    48.8273727
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "4 Rue Buot, 75013, Paris", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.1368621, 
-                    48.0402368
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Munster, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.7507127, 
-                    48.584614
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Strasbourg, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    6.1838123, 
-                    48.6928048
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Nancy, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -1.5561079, 
-                    43.4815899
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Biarritz, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    6.8628959, 
-                    47.6379311
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Belfort, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8060329, 
-                    43.9493143
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Avignon, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    6.47882, 
-                    45.1823
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Valmeinier, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    4.8323239, 
-                    45.7575958
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Lyon, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.3579641, 
-                    48.0777517
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Colmar, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.3685785, 
-                    43.295791
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Pau, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    2.1266886, 
-                    48.8035403
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Versailles, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -1.2644272, 
-                    49.6706815
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Barfleur, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    4.3516841, 
-                    50.8465406
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Brussels, Belgium", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    129.3429384, 
-                    36.0189315
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Pohang, South Korea", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    126.9953036, 
-                    37.5710824
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Seoul, South Korea", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    129.0625899, 
-                    35.1853168
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Busan, South Korea", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    126.8286189, 
-                    35.1594895
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Gwangju, South Korea", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    129.215273, 
-                    35.8377869
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Gyeongju, South Korea", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    11.2555757, 
-                    43.7698712
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Firenze, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    11.3430347, 
-                    44.4936714
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Bologna, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    10.3280355, 
-                    44.8013504
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Parme, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    10.4032946, 
-                    44.4355622
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Castelnovo Ne' Monti, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    10.4018984, 
-                    43.715925
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Pisa, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    12.318564, 
-                    45.4384143
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Venise, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    11.3316533, 
-                    43.3185536
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Siena, Italy", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.5912827, 
-                    45.5224507
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Montreal, Canada", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -73.9865812, 
-                    40.7305991
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "New York City, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -7.9883921, 
-                    31.6267337
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Marrakesh, Maroco", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    24.0134054360093, 
-                    49.83577135
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Lvov, Ukraine", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    30.5234937, 
-                    50.4499875
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Kiev, Ukraine", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    147.3281233, 
-                    -42.8825088
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Hobart, Tasmania", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -49.988758, 
-                    -18.4868959
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Inaciolandia, Brasil", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -45.4070527, 
-                    -23.8027866
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Sao Sebastiao, Brasil", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -46.3847024, 
-                    -23.9603686
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Sao Vicente, Brasil", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    34.3014551, 
-                    27.8669082
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Sharm el Sheikh, Egypt", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    73.4867968, 
-                    4.2218417
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Maldives", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -68.4704732230139, 
-                    18.7335912
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Punta Cana, Dominican Republic", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    139.7685224, 
-                    35.6800712
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Tokyo, Japan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    135.763835, 
-                    35.0185804
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Kyoto, Japan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    135.8048359, 
-                    34.6845445
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Nara, Japan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -43.2093781, 
-                    -22.9112163
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -46.6339647, 
-                    -23.5503279
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Sao Paulo, RMSP, SP, Brazil", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    8.5404434, 
-                    47.3685586
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Zurich, Switzerland", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.12264, 
-                    43.6941
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Saint Paul de Vence, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.1141716, 
-                    43.5676357
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Juan les Pins, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.1513834, 
-                    43.6612012
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Cagnes sur Mer, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.10905, 
-                    43.5836
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Antibes, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.0126946, 
-                    43.5512076
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Cannes, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.41964, 
-                    43.7311966
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Monaco", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    7.2683912, 
-                    43.7009358
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Nice, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    4.3542, 
-                    46.6762
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Montceau-les-Mines, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    6.7737511, 
-                    51.2251964
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Dusseldorf, Allemagne", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -0.8893293, 
-                    48.8385198
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Vire, France", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    1.3034137, 
+            "geometry":{
+                "coordinates":[
+                    1.3034137,
                     43.6228196
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "21, allee de Brehat - 31770 Colomiers", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"21, allee de Brehat - 31770 Colomiers",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    120.9674752, 
-                    24.8138297
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Lakeshore Hotel, Hsinchu, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    2.3487305,
+                    48.8273727
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"4 Rue Buot, 75013, Paris",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -121.9552356, 
-                    37.3541079
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Santa Clara, California, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    -0.0485854,
+                    51.4800981
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"55 Hunsdon Road, New Cross Gate, London, United Kingdom",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -121.8946761, 
-                    36.6002378
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Monterey, California, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    4.930395700000001,
+                    52.3576206
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Amsterdam, Holland",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -119.6981901, 
-                    34.4208305
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Santa Barbara, California, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    7.10905,
+                    43.5836
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Antibes, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -116.9325408, 
-                    36.5322649
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Death Valley, California, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    4.8060329,
+                    43.9493143
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Avignon, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -119.5936038, 
-                    37.74557009999999
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Yosemite, California, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -122.4194155, 
-                    37.7749295
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "San Fransisco, California, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -75.1652215, 
-                    39.9525839
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Philadeplhia, Pennsylvania, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -76.6121893, 
+            "geometry":{
+                "coordinates":[
+                    -76.6121893,
                     39.2903848
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Baltimore, Maryland, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Baltimore, Maryland, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -77.0368707, 
-                    38.9071923
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Washington DC, Maryland, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    -1.2644272,
+                    49.6706815
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Barfleur, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -86.7816016, 
-                    36.1626638
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Nashville, Tennessee, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    6.8628959,
+                    47.6379311
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Belfort, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -90.0489801, 
-                    35.1495343
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Memphis, Mississippi, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -86.5861037, 
-                    34.7303688
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Huntsville, Alabama, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -90.0688811, 
-                    29.9500014
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "New Orleans, Louisiana, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -95.374652, 
-                    29.7427
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Houston, Texas, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -90.255466, 
-                    38.71296
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Saint Louis, Missouri, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -87.6304158, 
-                    41.903606
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Chicago, Illinois, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -83.0457538, 
-                    42.331427
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Detroit, Michigan, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -79.3831843, 
-                    43.653226
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Toronto, Canada", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    13.322317, 
+            "geometry":{
+                "coordinates":[
+                    13.322317,
                     52.502661
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Berlin, Allemagne", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Berlin, Allemagne",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    9.9936818, 
-                    53.5510846
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Hamburg, Allemagne", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    -1.5561079,
+                    43.4815899
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Biarritz, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    -3.188267, 
-                    55.953252
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Edinburgh, United Kingdom", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    11.3430347,
+                    44.4936714
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Bologna, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    4.930395700000001, 
-                    52.3576206
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Amsterdam, Holland", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    -71.0623949, 
+            "geometry":{
+                "coordinates":[
+                    -71.0623949,
                     42.3518285
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Boston, Massachusetts, USA", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Boston, Massachusetts, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    121.546166, 
-                    25.036153
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Le Blanc Taipei, Da\u2019an District, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    4.3516841,
+                    50.8465406
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Brussels, Belgium",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    10.7522454, 
-                    59.9138688
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Oslo, Norway", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    129.0625899,
+                    35.1853168
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Busan, South Korea",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    19.9449799, 
-                    50.06465009999999
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Krakow, Poland", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    7.1513834,
+                    43.6612012
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Cagnes sur Mer, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    14.4174219, 
-                    50.0793982
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Prague, Czech Republic", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    7.0126946,
+                    43.5512076
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Cannes, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    79.861243, 
+            "geometry":{
+                "coordinates":[
+                    10.4032946,
+                    44.4355622
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Castelnovo Ne' Monti, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -87.6304158,
+                    41.903606
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Chicago, Illinois, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.3579641,
+                    48.0777517
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Colmar, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    79.861243,
                     6.9270786
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Colombo, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Colombo, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    80.2209773, 
-                    6.0535185
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Gale, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    -116.9325408,
+                    36.5322649
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Death Valley, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    80.5549561, 
-                    5.95492
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Matara, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    -83.0457538,
+                    42.331427
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Detroit, Michigan, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    81.2876691, 
-                    6.2791538
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Tissamaharama, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    6.7737511,
+                    51.2251964
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Dusseldorf, Allemagne",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    81.046553, 
+            "geometry":{
+                "coordinates":[
+                    -3.188267,
+                    55.953252
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Edinburgh, United Kingdom",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    81.046553,
                     6.8666988
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Ella, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Ella, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    80.6337262, 
+            "geometry":{
+                "coordinates":[
+                    2.1549746,
+                    41.3726627
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Fira Palace, Barcelona, Spain",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    11.2555757,
+                    43.7698712
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Firenze, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    80.2209773,
+                    6.0535185
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Gale, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    126.8286189,
+                    35.1594895
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Gwangju, South Korea",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    129.215273,
+                    35.8377869
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Gyeongju, South Korea",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    9.9936818,
+                    53.5510846
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Hamburg, Allemagne",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    147.3281233,
+                    -42.8825088
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Hobart, Tasmania",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -95.374652,
+                    29.7427
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Houston, Texas, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -86.5861037,
+                    34.7303688
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Huntsville, Alabama, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -49.988758,
+                    -18.4868959
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Inaciolandia, Brasil",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.1141716,
+                    43.5676357
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Juan les Pins, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    80.6337262,
                     7.2905715
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Kandy, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Kandy, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    79.8736754, 
-                    7.200796799999999
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Negombo, Sri Lanka", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    30.5234937,
+                    50.4499875
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Kiev, Ukraine",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    4.930395700000001, 
-                    52.3576206
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Amsterdam, Holland", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+            "geometry":{
+                "coordinates":[
+                    19.9449799,
+                    50.06465009999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Krakow, Poland",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    121.546166, 
+            "geometry":{
+                "coordinates":[
+                    135.763835,
+                    35.0185804
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Kyoto, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    120.9674752,
+                    24.8138297
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Lakeshore Hotel, Hsinchu, Taiwan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    121.546166,
                     25.036153
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "Le Blanc Taipei, Da\u2019an District, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
-        }, 
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Le Blanc Taipei, Da\u2019an District, Taipei City, Taiwan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
         {
-            "geometry": {
-                "coordinates": [
-                    121.543993, 
+            "geometry":{
+                "coordinates":[
+                    24.0134054360093,
+                    49.83577135
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Lvov, Ukraine",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4.8323239,
+                    45.7575958
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Lyon, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    73.4867968,
+                    4.2218417
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Maldives",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -7.9883921,
+                    31.6267337
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Marrakesh, Maroco",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    80.5549561,
+                    5.95492
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Matara, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -90.0489801,
+                    35.1495343
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Memphis, Mississippi, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.41964,
+                    43.7311966
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Monaco",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    4.3542,
+                    46.6762
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Montceau-les-Mines, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -121.8946761,
+                    36.6002378
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Monterey, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -73.5912827,
+                    45.5224507
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Montreal, Canada",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.1368621,
+                    48.0402368
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Munster, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    6.1838123,
+                    48.6928048
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nancy, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    135.8048359,
+                    34.6845445
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nara, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -86.7816016,
+                    36.1626638
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nashville, Tennessee, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    79.8736754,
+                    7.200796799999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Negombo, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -90.0688811,
+                    29.9500014
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"New Orleans, Louisiana, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -73.9865812,
+                    40.7305991
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"New York City, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.2683912,
+                    43.7009358
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nice, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    10.7522454,
+                    59.9138688
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Oslo, Norway",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    10.3280355,
+                    44.8013504
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Parme, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -0.3685785,
+                    43.295791
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Pau, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -75.1652215,
+                    39.9525839
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Philadeplhia, Pennsylvania, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    10.4018984,
+                    43.715925
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Pisa, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    129.3429384,
+                    36.0189315
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Pohang, South Korea",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    14.4174219,
+                    50.0793982
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Prague, Czech Republic",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -68.4704732230139,
+                    18.7335912
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Punta Cana, Dominican Republic",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -43.2093781,
+                    -22.9112163
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -90.255466,
+                    38.71296
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Saint Louis, Missouri, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.12264,
+                    43.6941
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Saint Paul de Vence, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -122.4194155,
+                    37.7749295
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"San Fransisco, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -119.6981901,
+                    34.4208305
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Santa Barbara, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -121.9552356,
+                    37.3541079
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Santa Clara, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -46.6339647,
+                    -23.5503279
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Sao Paulo, RMSP, SP, Brazil",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -45.4070527,
+                    -23.8027866
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Sao Sebastiao, Brasil",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -46.3847024,
+                    -23.9603686
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Sao Vicente, Brasil",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    126.9953036,
+                    37.5710824
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Seoul, South Korea",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    34.3014551,
+                    27.8669082
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Sharm el Sheikh, Egypt",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    11.3316533,
+                    43.3185536
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Siena, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    7.7507127,
+                    48.584614
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Strasbourg, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    81.2876691,
+                    6.2791538
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Tissamaharama, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    139.7685224,
+                    35.6800712
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Tokyo, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -79.3831843,
+                    43.653226
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Toronto, Canada",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    6.47882,
+                    45.1823
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Valmeinier, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    12.318564,
+                    45.4384143
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Venise, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    2.1266886,
+                    48.8035403
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Versailles, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    14.0102911,
+                    40.7544149
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Via Giovanni da Procida, Chiaiolella, Procida",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    14.2589246,
+                    40.850624
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Vico dei Maiorani, 80138 Naples, Campania, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -0.8893293,
+                    48.8385198
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Vire, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -77.0368707,
+                    38.9071923
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Washington DC, Maryland, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -119.5936038,
+                    37.74557009999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Yosemite, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    8.5404434,
+                    47.3685586
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Zurich, Switzerland",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    121.543993,
                     25.059528
-                ], 
-                "type": "Point"
-            }, 
-            "properties": {
-                "name": "\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan", 
-                "show_on_map": true
-            }, 
-            "type": "Feature"
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan",
+                "show_on_map":true
+            },
+            "type":"Feature"
         }
-    ], 
-    "type": "FeatureCollection"
+    ],
+    "type":"FeatureCollection"
 }
