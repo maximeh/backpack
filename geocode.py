@@ -19,8 +19,7 @@ def find_lat_lng(key, place):
     }
 
     req = requests.get(URL, params={'address':place, 'key': key})
-
-    geo_value = json.loads(req.text)
+    geo_value = req.json()
     if geo_value['status'] != "OK":
         print("Could not find address for '%s'" % place)
         point["properties"]["show_on_map"] = False
