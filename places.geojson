@@ -87,6 +87,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    135.1918204,
+                    35.5698022
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Amanohashidate, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     4.930395700000001,
                     52.3576206
                 ],
@@ -451,6 +465,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    129.7385884,
+                    32.62783280000001
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Gunkanjima, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     126.8286189,
                     35.1594895
                 ],
@@ -731,6 +759,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    135.1955665,
+                    35.5355767
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Miyazu, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     7.41964,
                     43.7311966
                 ],
@@ -794,6 +836,34 @@
             },
             "properties":{
                 "name":"Munster, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    129.877667,
+                    32.7502856
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nagasaki, Japan",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    136.906398,
+                    35.1814464
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nagoya, Japan",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -892,6 +962,20 @@
             },
             "properties":{
                 "name":"Nice, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    135.5021651,
+                    34.6937378
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Osaka, Japan",
                 "show_on_map":true
             },
             "type":"Feature"
