@@ -5,12 +5,14 @@ import json
 import sys
 
 import requests
+from requests.adapters import HTTPAdapter
+from requests.packages.urllib3.util.retry import Retry
 
 URL = "https://maps.googleapis.com/maps/api/geocode/json"
 JSON_FILENAME = "places.geojson"
 KEY_FILENAME = "gmaps.key"
 
-def find_lat_lng(key, place):
+def find_lat_lng(session, key, place):
 
     point = {
         "type": "Feature",
@@ -18,7 +20,7 @@ def find_lat_lng(key, place):
         "properties": {"name": place, 'show_on_map': True}
     }
 
-    req = requests.get(URL, params={'address':place, 'key': key})
+    req = session.get(URL, params={'address':place, 'key': key})
     geo_value = req.json()
     if geo_value['status'] != "OK":
         print("Could not find address for '%s'" % place)
@@ -70,9 +72,17 @@ def main():
             # places.
             features.remove(feat)
 
+    # Create a session object with some backoff and retry to avoid hitting
+    # quota limits
+    session = requests.Session()
+    retry = Retry(connect=3, backoff_factor=0.5)
+    adapter = HTTPAdapter(max_retries=retry)
+    session.mount('http://', adapter)
+    session.mount('https://', adapter)
+
     # Find the gps coordinates of the new places
     for pl in places:
-        point = find_lat_lng(key, pl)
+        point = find_lat_lng(session, key, pl)
         if point is None:
             continue
         features.append(point)
