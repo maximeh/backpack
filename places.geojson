@@ -353,6 +353,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -122.0321823,
+                    37.3229978
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Cupertino, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -116.9325408,
                     36.5322649
                 ],
@@ -1270,6 +1284,20 @@
             },
             "properties":{
                 "name":"Strasbourg, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -122.0363496,
+                    37.36883
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Sunnyvale, California, USA",
                 "show_on_map":true
             },
             "type":"Feature"
