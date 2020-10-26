@@ -87,6 +87,34 @@
         {
             "geometry":{
                 "coordinates":[
+                    -156.6913293,
+                    20.9392013
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"6 Kai Ala Dr, Lahaina, HI 96761",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -120.0719173,
+                    38.7003885
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"920 Columbine Cir, Markleeville, CA 96120",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     135.1918204,
                     35.5698022
                 ],
