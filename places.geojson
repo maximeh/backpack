@@ -45,6 +45,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -122.1121688,
+                    40.0465379
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"24787 Taft St, Los Molinos, CA 96055",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     2.3487305,
                     48.8273727
                 ],
