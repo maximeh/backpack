@@ -1,7 +1,7 @@
 backpack
 =======
 
-See the [example](http://maximeh.github.com/backpack)
+See the [example](http://maximeh.github.io/backpack)
 
 A very small website to track down all the places I have ever visited in the
 world.
