@@ -1235,6 +1235,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    24.7525478,
+                    42.141798
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"SOHO - Apart House - Kapitan Raycho Nikolov 23, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     23.6613429,
                     -19.1280182
                 ],
