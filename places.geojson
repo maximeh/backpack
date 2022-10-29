@@ -59,6 +59,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -123.0981881,
+                    49.2842798
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"289 Alexander Street 610, Vancouver, BC V6A 4H6, Canada",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     2.3490831,
                     48.8271027
                 ],
@@ -108,6 +122,20 @@
             },
             "properties":{
                 "name":"6 Kai Ala Dr, Lahaina, HI 96761",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -123.1064261,
+                    49.2798638
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"63 Keefer Place 1802, Vancouver, BC V6B 6N6, Canada",
                 "show_on_map":true
             },
             "type":"Feature"
