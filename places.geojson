@@ -353,6 +353,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    31.2357116,
+                    30.0444196
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Cairo, Egypt",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     27.0441009,
                     -20.5026195
                 ],
