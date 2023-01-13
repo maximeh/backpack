@@ -1277,6 +1277,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -77.62575369999999,
+                    -9.2922326
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Runaway Eco Hotel, Acopampa 02123, Peru",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     24.7525478,
                     42.141798
                 ],
