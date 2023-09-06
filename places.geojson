@@ -255,6 +255,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    35.44,
+                    -21.866389
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Benguerra Island, Mariano, Mozambique",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     13.404954,
                     52.52000659999999
                 ],
@@ -276,6 +290,20 @@
             },
             "properties":{
                 "name":"Biarritz, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    28.233397,
+                    -26.1812857
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Birchwood Hotel & OR Tambo Conference Centre, Viewpoint Street, Bartlett, Boksburg, South Africa",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -318,6 +346,20 @@
             },
             "properties":{
                 "name":"Brussels, Belgium",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    37.667929,
+                    0.6395829
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Buffalo Spring Reserve, Archers Post, Kenya",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -542,6 +584,20 @@
             },
             "properties":{
                 "name":"Ella, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    35.87706420000001,
+                    -1.0875428
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Entim camp, Serena, Narok, Kenya",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1025,6 +1081,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    36.8219462,
+                    -1.2920659
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Nairobi, Kenya",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     6.184417,
                     48.692054
                 ],
@@ -1130,6 +1200,34 @@
             },
             "properties":{
                 "name":"Nkuringo Lodge, Kisoro, Uganda",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    32.4619945,
+                    0.0494864
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"No.5 Boutique Hotel, Edna Road, Entebbe, Uganda",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    36.8638059,
+                    0.0277305
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Ol Pejeta Conservancy, Nanyuki, Kenya",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1508,6 +1606,20 @@
             },
             "properties":{
                 "name":"Sunnyvale, California, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    34.801,
+                    -16.035
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Thawale Lodge, Chikwawa, Malawi",
                 "show_on_map":true
             },
             "type":"Feature"
