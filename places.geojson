@@ -199,6 +199,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    25.3761449,
+                    36.4612634
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Aspaki by Art Maisons, 847 02 Oia, Santorini, Greece",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     4.805528,
                     43.94931700000001
                 ],
@@ -731,6 +745,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    2.9323867,
+                    41.7188163
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Hotel Diana, Tossa de Mar, Spain",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -95.3698028,
                     29.7604267
                 ],
@@ -857,6 +885,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    23.7281868,
+                    37.982574
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"L7 Str, Lykourgou 7, 105 51 Athens, Greece",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     120.9760168,
                     24.8112468
                 ],
@@ -906,6 +948,20 @@
             },
             "properties":{
                 "name":"Lyon, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -3.7037902,
+                    40.4167754
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Madrid, Spain",
                 "show_on_map":true
             },
             "type":"Feature"
