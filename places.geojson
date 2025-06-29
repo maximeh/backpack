@@ -1487,6 +1487,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -2.0184218,
+                    48.649221
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Saint Malo, France",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     7.122138,
                     43.696973
                 ],
@@ -1872,6 +1886,20 @@
             },
             "properties":{
                 "name":"Washington DC, Maryland, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    14.492265,
+                    35.92539170000001
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Westin Dragonara, Malta",
                 "show_on_map":true
             },
             "type":"Feature"
