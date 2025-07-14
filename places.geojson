@@ -451,6 +451,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -71.9794458,
+                    -13.517557
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Casa Andina Standard Cusco Plaza, C. Espinar 142, Cusco, Peru",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     10.4006094,
                     44.433842
                 ],
@@ -584,6 +598,20 @@
             },
             "properties":{
                 "name":"Edinburgh, United Kingdom",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -72.5248457,
+                    -13.1544506
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"El MaPi Hotel byInkaterra, Ave Pachacutec 109, Aguas Calientes, Peru",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1648,6 +1676,20 @@
             },
             "properties":{
                 "name":"Siena, Italy",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -72.087738,
+                    -13.316573
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Sonesta Hotel Posadas del Inca Yucay, Manco II 123, Yucay, Peru",
                 "show_on_map":true
             },
             "type":"Feature"
