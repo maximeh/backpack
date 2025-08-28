@@ -1,3 +1,5 @@
+import L, {Map, TileLayer, Marker, GeoJSON} from 'leaflet';
+
 let map;
 
 function show(feature, layer) {
@@ -15,13 +17,13 @@ function markerBounce(event) {
 }
 
 function addClickBounce(feature, latlng) {
-  marker = new L.Marker(latlng, {bounceOnAdd: true}).addTo(map);
+  const marker = new Marker(latlng, {bounceOnAdd: true}).addTo(map);
   marker.on('click', markerBounce);
   return marker;
 }
 
 function addFeature(feature) {
-  L.geoJson(feature, {
+  new GeoJSON(feature, {
     filter: show,
     onEachFeature: addTooltip,
     pointToLayer: addClickBounce,
@@ -29,23 +31,22 @@ function addFeature(feature) {
 }
 
 function addData() {
-  $.getJSON('places.geojson', function(data) {
-    let i = 0;
-    const addFeat = setInterval(function() {
-      const feat = data.features[i++];
-      addFeature(feat);
-      if (i >= data.features.length) clearInterval(addFeat);
-    }, 30);
-  });
+  fetch('places.geojson')
+    .then(response => response.json())
+    .then(data => {
+      let i = 0;
+      const addFeat = setInterval(function() {
+        const feat = data.features[i++];
+        addFeature(feat);
+        if (i >= data.features.length) clearInterval(addFeat);
+      }, 30);
+    })
+    .catch(error => console.error('Error loading places.geojson:', error));
 }
 
 window.onload = function() {
-  map = L.map('map').setView([23.26, 0], 3);
-  L.control.fullscreen({
-    position: 'topleft',
-    title: 'Go Fullscreen!',
-  }).addTo(map);
-  L.tileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+  map = new Map('map').setView([23.26, 0], 3);
+  new TileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     subdomains: ['a', 'b', 'c'],
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
