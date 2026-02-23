@@ -353,6 +353,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -62.3715344,
+                    -64.1413464
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Brabant Island, Antarctica (general), Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     4.3571696,
                     50.8476424
                 ],
@@ -591,6 +605,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -60.7915516,
+                    -63.9025451
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"D\u2019Hainaut Island, Antarctica (general), Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -3.188267,
                     55.953252
                 ],
@@ -626,6 +654,20 @@
             },
             "properties":{
                 "name":"Ella, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -58.38006679999999,
+                    -34.5901524
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Emperador Hotel Buenos Aires, Argentina",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -682,6 +724,20 @@
             },
             "properties":{
                 "name":"Gale, Sri Lanka",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -64.2484161,
+                    -65.24862379999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Galindez Island, Antarctica (general), Antarctica",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -766,6 +822,20 @@
             },
             "properties":{
                 "name":"Hobart, Tasmania",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -64.066667,
+                    -65.11666699999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Hogvaard Island, Antarctica, Southern Ocean",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1753,6 +1823,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -68.30584089999999,
+                    -54.80761159999999
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Tierra del Fuego, Ushuaia, Argentina",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     81.2876691,
                     6.2791538
                 ],
@@ -1797,6 +1881,20 @@
                 "coordinates":[
                     30.3833245,
                     0.4029784
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Turaco Treetops, Kibale Forest National Park, Nkingo, Uganda",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    30.3834138,
+                    0.4032626
                 ],
                 "type":"Point"
             },
@@ -1942,6 +2040,20 @@
             },
             "properties":{
                 "name":"Westin Dragonara, Malta",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -64.2666669,
+                    -65.2499998
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Winter Island, Antarctica (general), Antarctica, Southern Ocean",
                 "show_on_map":true
             },
             "type":"Feature"
