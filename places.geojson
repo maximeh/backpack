@@ -199,6 +199,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -64.25,
+                    -65.25
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Argentine Islands, Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     25.3761449,
                     36.4612634
                 ],
@@ -353,20 +367,6 @@
         {
             "geometry":{
                 "coordinates":[
-                    -62.3715344,
-                    -64.1413464
-                ],
-                "type":"Point"
-            },
-            "properties":{
-                "name":"Brabant Island, Antarctica (general), Antarctica",
-                "show_on_map":true
-            },
-            "type":"Feature"
-        },
-        {
-            "geometry":{
-                "coordinates":[
                     4.3571696,
                     50.8476424
                 ],
@@ -493,6 +493,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -61.6667,
+                    -64.5333
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Charlotte Bay, Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -87.6297982,
                     41.8781136
                 ],
@@ -500,6 +514,20 @@
             },
             "properties":{
                 "name":"Chicago, Illinois, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -60.9167,
+                    -64.15
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Cierva Cove, Antarctica",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -591,13 +619,13 @@
         {
             "geometry":{
                 "coordinates":[
-                    6.7734556,
-                    51.2277411
+                    -65.6167,
+                    -57.45
                 ],
                 "type":"Point"
             },
             "properties":{
-                "name":"Dusseldorf, Allemagne",
+                "name":"Drake Passage, Southern Ocean",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -605,13 +633,27 @@
         {
             "geometry":{
                 "coordinates":[
-                    -60.7915516,
-                    -63.9025451
+                    -62.8167,
+                    -64.4667
                 ],
                 "type":"Point"
             },
             "properties":{
-                "name":"D\u2019Hainaut Island, Antarctica (general), Antarctica",
+                "name":"Duperre Bay, Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    6.7734556,
+                    51.2277411
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Dusseldorf, Allemagne",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -689,6 +731,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -63.1667,
+                    -65.1167
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Etienne Fjord, Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     2.153433,
                     41.3742256
                 ],
@@ -731,13 +787,13 @@
         {
             "geometry":{
                 "coordinates":[
-                    -64.2484161,
-                    -65.24862379999999
+                    -62.5,
+                    -64.5667
                 ],
                 "type":"Point"
             },
             "properties":{
-                "name":"Galindez Island, Antarctica (general), Antarctica",
+                "name":"Gerlache Strait, Antarctica",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -822,20 +878,6 @@
             },
             "properties":{
                 "name":"Hobart, Tasmania",
-                "show_on_map":true
-            },
-            "type":"Feature"
-        },
-        {
-            "geometry":{
-                "coordinates":[
-                    -64.066667,
-                    -65.11666699999999
-                ],
-                "type":"Point"
-            },
-            "properties":{
-                "name":"Hogvaard Island, Antarctica, Southern Ocean",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1025,6 +1067,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -63.95,
+                    -65.0833
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Lemaire Channel, Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     24.029717,
                     49.839683
                 ],
@@ -1116,6 +1172,20 @@
             },
             "properties":{
                 "name":"Memphis, Mississippi, USA",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -60.7833,
+                    -63.9
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Mikkelsen Harbour, Antarctica",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1473,6 +1543,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -64.0333,
+                    -65.1
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Pleneau Island, Antarctica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     129.3434808,
                     36.0190178
                 ],
@@ -1480,6 +1564,20 @@
             },
             "properties":{
                 "name":"Pohang, South Korea",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    -61.7667,
+                    -64.5
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Portal Point, Antarctica",
                 "show_on_map":true
             },
             "type":"Feature"
@@ -1893,20 +1991,6 @@
         {
             "geometry":{
                 "coordinates":[
-                    30.3834138,
-                    0.4032626
-                ],
-                "type":"Point"
-            },
-            "properties":{
-                "name":"Turaco Treetops, Kibale Forest National Park, Nkingo, Uganda",
-                "show_on_map":true
-            },
-            "type":"Feature"
-        },
-        {
-            "geometry":{
-                "coordinates":[
                     6.478624,
                     45.183414
                 ],
@@ -2047,13 +2131,13 @@
         {
             "geometry":{
                 "coordinates":[
-                    -64.2666669,
-                    -65.2499998
+                    -62.0333,
+                    -64.6833
                 ],
                 "type":"Point"
             },
             "properties":{
-                "name":"Winter Island, Antarctica (general), Antarctica, Southern Ocean",
+                "name":"Wilhelmina Bay, Antarctica",
                 "show_on_map":true
             },
             "type":"Feature"

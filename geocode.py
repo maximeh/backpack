@@ -47,8 +47,20 @@ def main():
     json_path = f"{path}{JSON_FILENAME}"
     try:
         with open(f"{path}places_log.txt", "r", encoding="UTF-8") as places_file:
-            places = places_file.readlines()
-            places = [pl.strip() for pl in places]
+            places = []
+            manual_coords = {}
+            for line in places_file:
+                line = line.strip()
+                if not line:
+                    continue
+                if "|" in line:
+                    name, coords_str = line.split("|", 1)
+                    name = name.strip()
+                    lat_str, lng_str = coords_str.strip().split(",")
+                    manual_coords[name] = (float(lat_str.strip()), float(lng_str.strip()))
+                    places.append(name)
+                else:
+                    places.append(line)
             if len(set(places)) != len(places):
                 print("You have double entry in 'places_log.txt'; fix that.")
                 return 1
@@ -65,14 +77,16 @@ def main():
         # We will rewrite the whole file then.
         features = []
 
+    kept_features = []
     for feat in features:
-        if feat["properties"]["name"] in places:
-            # We already have the coordinates of that place
-            places.remove(feat["properties"]["name"])
-        else:
-            # This feature should not be here anymore; it as been removed from
-            # places.
-            features.remove(feat)
+        name = feat["properties"]["name"]
+        if name in places:
+            if name not in manual_coords:
+                kept_features.append(feat)
+                places.remove(name)
+            # Manual coords entries stay in places to be re-added below
+        # Features not in places are dropped (removed from log)
+    features = kept_features
 
     # Create a session object with some backoff and retry to avoid hitting
     # quota limits
@@ -84,9 +98,17 @@ def main():
 
     # Find the gps coordinates of the new places
     for place in places:
-        point = find_lat_lng(session, key, place)
-        if point is None:
-            continue
+        if place in manual_coords:
+            lat, lng = manual_coords[place]
+            point = {
+                "type": "Feature",
+                "geometry": {"type": "Point", "coordinates": [lng, lat]},
+                "properties": {"name": place, "show_on_map": True},
+            }
+        else:
+            point = find_lat_lng(session, key, place)
+            if point is None:
+                continue
         features.append(point)
 
     features = sorted(features, key=lambda x: x["properties"]["name"])

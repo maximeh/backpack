@@ -1,8 +1,15 @@
-D’Hainaut Island, Antarctica (general), Antarctica
-Winter Island, Antarctica (general), Antarctica, Southern Ocean
-Brabant Island, Antarctica (general), Antarctica
-Hogvaard Island, Antarctica, Southern Ocean
-Galindez Island, Antarctica (general), Antarctica
+Drake Passage, Southern Ocean | -57.45, -65.6167
+Duperre Bay, Antarctica | -64.4667, -62.8167
+Charlotte Bay, Antarctica | -64.5333, -61.6667
+Portal Point, Antarctica | -64.5, -61.7667
+Gerlache Strait, Antarctica | -64.5667, -62.5
+Lemaire Channel, Antarctica | -65.0833, -63.95
+Pleneau Island, Antarctica | -65.1, -64.0333
+Argentine Islands, Antarctica | -65.25, -64.25
+Etienne Fjord, Antarctica | -65.1167, -63.1667
+Wilhelmina Bay, Antarctica | -64.6833, -62.0333
+Mikkelsen Harbour, Antarctica | -63.9, -60.7833
+Cierva Cove, Antarctica | -64.15, -60.9167
 Tierra del Fuego, Ushuaia, Argentina
 Emperador Hotel Buenos Aires, Argentina
 Sonesta Hotel Posadas del Inca Yucay, Manco II 123, Yucay, Peru
