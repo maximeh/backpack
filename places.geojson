@@ -2075,6 +2075,34 @@
         {
             "geometry":{
                 "coordinates":[
+                    -8.3801173,
+                    37.1000664
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Vilalara Thalassa, Alporchinhos, 8400-450 Porches, Portugal",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    1.727446,
+                    41.2151504
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Vilanova i la Geltr\u00fa, Barcelona, Spain",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -0.888482,
                     48.837781
                 ],
