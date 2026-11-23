@@ -296,7 +296,7 @@
             "properties":{
                 "name":"Barfleur, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"2011-07"
             },
             "type":"Feature"
         },
@@ -311,7 +311,7 @@
             "properties":{
                 "name":"Belfort, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"2006-10"
             },
             "type":"Feature"
         },
@@ -1436,7 +1436,7 @@
             "properties":{
                 "name":"Nancy, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"2004-01"
             },
             "type":"Feature"
         },
@@ -2021,7 +2021,7 @@
             "properties":{
                 "name":"Strasbourg, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"2009-11"
             },
             "type":"Feature"
         },
