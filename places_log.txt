@@ -158,3 +158,4 @@ Cairo, Egypt
 Sharm el Sheikh, Egypt
 Maldives
 Punta Cana, Dominican Republic
+Arenas Del Mar, Manuel Antonio, Costa Rica | 9.39774, -84.16258

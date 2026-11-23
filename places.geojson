@@ -199,6 +199,20 @@
         {
             "geometry":{
                 "coordinates":[
+                    -84.16258,
+                    9.39774
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Arenas Del Mar, Manuel Antonio, Costa Rica",
+                "show_on_map":true
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -64.25,
                     -65.25
                 ],
