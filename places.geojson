@@ -10,7 +10,8 @@
             },
             "properties":{
                 "name":"12 Rue de Dantzig, 75015, Paris",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -24,7 +25,8 @@
             },
             "properties":{
                 "name":"163 Rue de S\u00e8vres, 75015 Paris, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2014-04"
             },
             "type":"Feature"
         },
@@ -38,7 +40,8 @@
             },
             "properties":{
                 "name":"21, allee de Brehat - 31770 Colomiers",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -52,7 +55,8 @@
             },
             "properties":{
                 "name":"24787 Taft St, Los Molinos, CA 96055",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2021-01"
             },
             "type":"Feature"
         },
@@ -66,7 +70,8 @@
             },
             "properties":{
                 "name":"289 Alexander Street 610, Vancouver, BC V6A 4H6, Canada",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-09"
             },
             "type":"Feature"
         },
@@ -80,7 +85,8 @@
             },
             "properties":{
                 "name":"4 Rue Buot, 75013, Paris",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -94,7 +100,8 @@
             },
             "properties":{
                 "name":"42 bis Rue Moliere, 93100 Montreuil, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2014-04"
             },
             "type":"Feature"
         },
@@ -108,7 +115,8 @@
             },
             "properties":{
                 "name":"55 Hunsdon Road, New Cross Gate, London, United Kingdom",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-05"
             },
             "type":"Feature"
         },
@@ -122,7 +130,8 @@
             },
             "properties":{
                 "name":"6 Kai Ala Dr, Lahaina, HI 96761",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2020-10"
             },
             "type":"Feature"
         },
@@ -136,7 +145,8 @@
             },
             "properties":{
                 "name":"63 Keefer Place 1802, Vancouver, BC V6B 6N6, Canada",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-09"
             },
             "type":"Feature"
         },
@@ -150,7 +160,8 @@
             },
             "properties":{
                 "name":"920 Columbine Cir, Markleeville, CA 96120",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2020-10"
             },
             "type":"Feature"
         },
@@ -164,7 +175,8 @@
             },
             "properties":{
                 "name":"Amanohashidate, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2018-07"
             },
             "type":"Feature"
         },
@@ -178,7 +190,8 @@
             },
             "properties":{
                 "name":"Amsterdam, Holland",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -192,7 +205,8 @@
             },
             "properties":{
                 "name":"Antibes, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -206,7 +220,8 @@
             },
             "properties":{
                 "name":"Arenas Del Mar, Manuel Antonio, Costa Rica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-11"
             },
             "type":"Feature"
         },
@@ -220,7 +235,8 @@
             },
             "properties":{
                 "name":"Argentine Islands, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -234,7 +250,8 @@
             },
             "properties":{
                 "name":"Aspaki by Art Maisons, 847 02 Oia, Santorini, Greece",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2024-06"
             },
             "type":"Feature"
         },
@@ -248,7 +265,8 @@
             },
             "properties":{
                 "name":"Avignon, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -262,7 +280,8 @@
             },
             "properties":{
                 "name":"Baltimore, Maryland, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -276,7 +295,8 @@
             },
             "properties":{
                 "name":"Barfleur, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -290,7 +310,8 @@
             },
             "properties":{
                 "name":"Belfort, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -304,7 +325,8 @@
             },
             "properties":{
                 "name":"Benguerra Island, Mariano, Mozambique",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-09"
             },
             "type":"Feature"
         },
@@ -318,7 +340,8 @@
             },
             "properties":{
                 "name":"Berlin, Allemagne",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-10"
             },
             "type":"Feature"
         },
@@ -332,7 +355,8 @@
             },
             "properties":{
                 "name":"Biarritz, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -346,7 +370,8 @@
             },
             "properties":{
                 "name":"Birchwood Hotel & OR Tambo Conference Centre, Viewpoint Street, Bartlett, Boksburg, South Africa",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-09"
             },
             "type":"Feature"
         },
@@ -360,7 +385,8 @@
             },
             "properties":{
                 "name":"Bologna, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -374,7 +400,8 @@
             },
             "properties":{
                 "name":"Boston, Massachusetts, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -388,7 +415,8 @@
             },
             "properties":{
                 "name":"Brussels, Belgium",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2009-05"
             },
             "type":"Feature"
         },
@@ -402,7 +430,8 @@
             },
             "properties":{
                 "name":"Buffalo Spring Reserve, Archers Post, Kenya",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-08"
             },
             "type":"Feature"
         },
@@ -416,7 +445,8 @@
             },
             "properties":{
                 "name":"Busan, South Korea",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -430,7 +460,8 @@
             },
             "properties":{
                 "name":"Cagnes sur Mer, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -444,7 +475,8 @@
             },
             "properties":{
                 "name":"Cairo, Egypt",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-10"
             },
             "type":"Feature"
         },
@@ -458,7 +490,8 @@
             },
             "properties":{
                 "name":"Camp Khalari,Tutume, Botswana",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-06"
             },
             "type":"Feature"
         },
@@ -472,7 +505,8 @@
             },
             "properties":{
                 "name":"Cannes, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -486,7 +520,8 @@
             },
             "properties":{
                 "name":"Casa Andina Standard Cusco Plaza, C. Espinar 142, Cusco, Peru",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2025-07"
             },
             "type":"Feature"
         },
@@ -500,7 +535,8 @@
             },
             "properties":{
                 "name":"Castelnovo Ne' Monti, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-02"
             },
             "type":"Feature"
         },
@@ -514,7 +550,8 @@
             },
             "properties":{
                 "name":"Charlotte Bay, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -528,7 +565,8 @@
             },
             "properties":{
                 "name":"Chicago, Illinois, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -542,7 +580,8 @@
             },
             "properties":{
                 "name":"Cierva Cove, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -556,7 +595,8 @@
             },
             "properties":{
                 "name":"Colmar, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -570,7 +610,8 @@
             },
             "properties":{
                 "name":"Colombo, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-09"
             },
             "type":"Feature"
         },
@@ -584,7 +625,8 @@
             },
             "properties":{
                 "name":"Connect Barranco, Barranco, Lima, Peru",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-07"
             },
             "type":"Feature"
         },
@@ -598,7 +640,8 @@
             },
             "properties":{
                 "name":"Cupertino, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-05"
             },
             "type":"Feature"
         },
@@ -612,7 +655,8 @@
             },
             "properties":{
                 "name":"Death Valley, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-07"
             },
             "type":"Feature"
         },
@@ -626,7 +670,8 @@
             },
             "properties":{
                 "name":"Detroit, Michigan, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -640,7 +685,8 @@
             },
             "properties":{
                 "name":"Drake Passage, Southern Ocean",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-03"
             },
             "type":"Feature"
         },
@@ -654,7 +700,8 @@
             },
             "properties":{
                 "name":"Duperre Bay, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -668,7 +715,8 @@
             },
             "properties":{
                 "name":"Dusseldorf, Allemagne",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -682,7 +730,8 @@
             },
             "properties":{
                 "name":"Edinburgh, United Kingdom",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -696,7 +745,8 @@
             },
             "properties":{
                 "name":"El MaPi Hotel byInkaterra, Ave Pachacutec 109, Aguas Calientes, Peru",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2025-07"
             },
             "type":"Feature"
         },
@@ -710,7 +760,8 @@
             },
             "properties":{
                 "name":"Ella, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-09"
             },
             "type":"Feature"
         },
@@ -724,7 +775,8 @@
             },
             "properties":{
                 "name":"Emperador Hotel Buenos Aires, Argentina",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -738,7 +790,8 @@
             },
             "properties":{
                 "name":"Entim camp, Serena, Narok, Kenya",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-09"
             },
             "type":"Feature"
         },
@@ -752,7 +805,8 @@
             },
             "properties":{
                 "name":"Etienne Fjord, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -766,7 +820,8 @@
             },
             "properties":{
                 "name":"Fira Palace, Barcelona, Spain",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-11"
             },
             "type":"Feature"
         },
@@ -780,7 +835,8 @@
             },
             "properties":{
                 "name":"Firenze, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2009-11"
             },
             "type":"Feature"
         },
@@ -794,7 +850,8 @@
             },
             "properties":{
                 "name":"Gale, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -808,7 +865,8 @@
             },
             "properties":{
                 "name":"Gerlache Strait, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -822,7 +880,8 @@
             },
             "properties":{
                 "name":"Gorilla Mountain View Lodge, Ruhengeri, Rwanda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-05"
             },
             "type":"Feature"
         },
@@ -836,7 +895,8 @@
             },
             "properties":{
                 "name":"Gunkanjima, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2018-07"
             },
             "type":"Feature"
         },
@@ -850,7 +910,8 @@
             },
             "properties":{
                 "name":"Gwangju, South Korea",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-01"
             },
             "type":"Feature"
         },
@@ -864,7 +925,8 @@
             },
             "properties":{
                 "name":"Gyeongju, South Korea",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2008-10"
             },
             "type":"Feature"
         },
@@ -878,7 +940,8 @@
             },
             "properties":{
                 "name":"Hamburg, Allemagne",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -892,7 +955,8 @@
             },
             "properties":{
                 "name":"Hobart, Tasmania",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -906,7 +970,8 @@
             },
             "properties":{
                 "name":"Hotel Diana, Tossa de Mar, Spain",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-05"
             },
             "type":"Feature"
         },
@@ -920,7 +985,8 @@
             },
             "properties":{
                 "name":"Houston, Texas, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -934,7 +1000,8 @@
             },
             "properties":{
                 "name":"Huntsville, Alabama, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-01"
             },
             "type":"Feature"
         },
@@ -948,7 +1015,8 @@
             },
             "properties":{
                 "name":"Inaciolandia, Brasil",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -962,7 +1030,8 @@
             },
             "properties":{
                 "name":"Juan les Pins, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -976,7 +1045,8 @@
             },
             "properties":{
                 "name":"Kandy, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -990,7 +1060,8 @@
             },
             "properties":{
                 "name":"Kibaale National Park, Uganda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-06"
             },
             "type":"Feature"
         },
@@ -1004,7 +1075,8 @@
             },
             "properties":{
                 "name":"Kiev, Ukraine",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2004-03"
             },
             "type":"Feature"
         },
@@ -1018,7 +1090,8 @@
             },
             "properties":{
                 "name":"Krakow, Poland",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -1032,7 +1105,8 @@
             },
             "properties":{
                 "name":"Kyoto, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-06"
             },
             "type":"Feature"
         },
@@ -1046,7 +1120,8 @@
             },
             "properties":{
                 "name":"L7 Str, Lykourgou 7, 105 51 Athens, Greece",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2024-05"
             },
             "type":"Feature"
         },
@@ -1060,7 +1135,8 @@
             },
             "properties":{
                 "name":"Lakeshore Hotel, Hsinchu, Taiwan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-02"
             },
             "type":"Feature"
         },
@@ -1074,7 +1150,8 @@
             },
             "properties":{
                 "name":"Le Blanc Taipei, Da\u2019an District, Taipei City, Taiwan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-01"
             },
             "type":"Feature"
         },
@@ -1088,7 +1165,8 @@
             },
             "properties":{
                 "name":"Lemaire Channel, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -1102,7 +1180,8 @@
             },
             "properties":{
                 "name":"Lvov, Ukraine",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1116,7 +1195,8 @@
             },
             "properties":{
                 "name":"Lyon, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1130,7 +1210,8 @@
             },
             "properties":{
                 "name":"Madrid, Spain",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2024-06"
             },
             "type":"Feature"
         },
@@ -1144,7 +1225,8 @@
             },
             "properties":{
                 "name":"Maldives",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2005-04"
             },
             "type":"Feature"
         },
@@ -1158,7 +1240,8 @@
             },
             "properties":{
                 "name":"Marrakesh, Maroco",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2010-12"
             },
             "type":"Feature"
         },
@@ -1172,7 +1255,8 @@
             },
             "properties":{
                 "name":"Matara, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -1186,7 +1270,8 @@
             },
             "properties":{
                 "name":"Memphis, Mississippi, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -1200,7 +1285,8 @@
             },
             "properties":{
                 "name":"Mikkelsen Harbour, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -1214,7 +1300,8 @@
             },
             "properties":{
                 "name":"Miyazu, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2018-07"
             },
             "type":"Feature"
         },
@@ -1228,7 +1315,8 @@
             },
             "properties":{
                 "name":"Monaco",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -1242,7 +1330,8 @@
             },
             "properties":{
                 "name":"Montceau-les-Mines, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-02"
             },
             "type":"Feature"
         },
@@ -1256,7 +1345,8 @@
             },
             "properties":{
                 "name":"Monterey, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-06"
             },
             "type":"Feature"
         },
@@ -1270,7 +1360,8 @@
             },
             "properties":{
                 "name":"Montreal, Canada",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2010-07"
             },
             "type":"Feature"
         },
@@ -1284,7 +1375,8 @@
             },
             "properties":{
                 "name":"Munster, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1298,7 +1390,8 @@
             },
             "properties":{
                 "name":"Nagasaki, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2018-07"
             },
             "type":"Feature"
         },
@@ -1312,7 +1405,8 @@
             },
             "properties":{
                 "name":"Nagoya, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2018-07"
             },
             "type":"Feature"
         },
@@ -1326,7 +1420,8 @@
             },
             "properties":{
                 "name":"Nairobi, Kenya",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-08"
             },
             "type":"Feature"
         },
@@ -1340,7 +1435,8 @@
             },
             "properties":{
                 "name":"Nancy, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1354,7 +1450,8 @@
             },
             "properties":{
                 "name":"Nara, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-06"
             },
             "type":"Feature"
         },
@@ -1368,7 +1465,8 @@
             },
             "properties":{
                 "name":"Nashville, Tennessee, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-01"
             },
             "type":"Feature"
         },
@@ -1382,7 +1480,8 @@
             },
             "properties":{
                 "name":"Negombo, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -1396,7 +1495,8 @@
             },
             "properties":{
                 "name":"New Orleans, Louisiana, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -1410,7 +1510,8 @@
             },
             "properties":{
                 "name":"New York City, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2010-07"
             },
             "type":"Feature"
         },
@@ -1424,7 +1525,8 @@
             },
             "properties":{
                 "name":"Nice, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -1438,7 +1540,8 @@
             },
             "properties":{
                 "name":"Nkuringo Lodge, Kisoro, Uganda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-05"
             },
             "type":"Feature"
         },
@@ -1452,7 +1555,8 @@
             },
             "properties":{
                 "name":"No.5 Boutique Hotel, Edna Road, Entebbe, Uganda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-08"
             },
             "type":"Feature"
         },
@@ -1466,7 +1570,8 @@
             },
             "properties":{
                 "name":"Ol Pejeta Conservancy, Nanyuki, Kenya",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-08"
             },
             "type":"Feature"
         },
@@ -1480,7 +1585,8 @@
             },
             "properties":{
                 "name":"Osaka, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2018-07"
             },
             "type":"Feature"
         },
@@ -1494,7 +1600,8 @@
             },
             "properties":{
                 "name":"Oslo, Norway",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -1508,7 +1615,8 @@
             },
             "properties":{
                 "name":"Parme, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1522,7 +1630,8 @@
             },
             "properties":{
                 "name":"Pau, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1536,7 +1645,8 @@
             },
             "properties":{
                 "name":"Philadeplhia, Pennsylvania, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-01"
             },
             "type":"Feature"
         },
@@ -1550,7 +1660,8 @@
             },
             "properties":{
                 "name":"Pisa, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1564,7 +1675,8 @@
             },
             "properties":{
                 "name":"Pleneau Island, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -1578,7 +1690,8 @@
             },
             "properties":{
                 "name":"Pohang, South Korea",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2008-09"
             },
             "type":"Feature"
         },
@@ -1592,7 +1705,8 @@
             },
             "properties":{
                 "name":"Portal Point, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -1606,7 +1720,8 @@
             },
             "properties":{
                 "name":"Prague, Czech Republic",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-10"
             },
             "type":"Feature"
         },
@@ -1620,7 +1735,8 @@
             },
             "properties":{
                 "name":"Punta Cana, Dominican Republic",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1634,7 +1750,8 @@
             },
             "properties":{
                 "name":"Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-08"
             },
             "type":"Feature"
         },
@@ -1648,7 +1765,8 @@
             },
             "properties":{
                 "name":"Runaway Eco Hotel, Acopampa 02123, Peru",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-01"
             },
             "type":"Feature"
         },
@@ -1662,7 +1780,8 @@
             },
             "properties":{
                 "name":"SOHO - Apart House - Kapitan Raycho Nikolov 23, 4000 Kamenitsa 1, Plovdiv, Bulgaria",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-08"
             },
             "type":"Feature"
         },
@@ -1676,7 +1795,8 @@
             },
             "properties":{
                 "name":"Sable Alley, Okavango Delta, Botswana",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-05"
             },
             "type":"Feature"
         },
@@ -1690,7 +1810,8 @@
             },
             "properties":{
                 "name":"Saint Louis, Missouri, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -1704,7 +1825,8 @@
             },
             "properties":{
                 "name":"Saint Malo, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2025-06"
             },
             "type":"Feature"
         },
@@ -1718,7 +1840,8 @@
             },
             "properties":{
                 "name":"Saint Paul de Vence, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -1732,7 +1855,8 @@
             },
             "properties":{
                 "name":"San Fransisco, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-07"
             },
             "type":"Feature"
         },
@@ -1746,7 +1870,8 @@
             },
             "properties":{
                 "name":"Santa Barbara, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-07"
             },
             "type":"Feature"
         },
@@ -1760,7 +1885,8 @@
             },
             "properties":{
                 "name":"Santa Clara, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-05"
             },
             "type":"Feature"
         },
@@ -1774,7 +1900,8 @@
             },
             "properties":{
                 "name":"Sao Paulo, RMSP, SP, Brazil",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-09"
             },
             "type":"Feature"
         },
@@ -1788,7 +1915,8 @@
             },
             "properties":{
                 "name":"Sao Sebastiao, Brasil",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1802,7 +1930,8 @@
             },
             "properties":{
                 "name":"Sao Vicente, Brasil",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2011-08"
             },
             "type":"Feature"
         },
@@ -1816,7 +1945,8 @@
             },
             "properties":{
                 "name":"Seoul, South Korea",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1830,7 +1960,8 @@
             },
             "properties":{
                 "name":"Sharm el Sheikh, Egypt",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-01"
             },
             "type":"Feature"
         },
@@ -1844,7 +1975,8 @@
             },
             "properties":{
                 "name":"ShearWater Explorers Village, Zimbabwe",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-05"
             },
             "type":"Feature"
         },
@@ -1858,7 +1990,8 @@
             },
             "properties":{
                 "name":"Siena, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1872,7 +2005,8 @@
             },
             "properties":{
                 "name":"Sonesta Hotel Posadas del Inca Yucay, Manco II 123, Yucay, Peru",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2025-07"
             },
             "type":"Feature"
         },
@@ -1886,7 +2020,8 @@
             },
             "properties":{
                 "name":"Strasbourg, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -1900,7 +2035,8 @@
             },
             "properties":{
                 "name":"Sunnyvale, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-05"
             },
             "type":"Feature"
         },
@@ -1914,7 +2050,8 @@
             },
             "properties":{
                 "name":"Thawale Lodge, Chikwawa, Malawi",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2023-09"
             },
             "type":"Feature"
         },
@@ -1928,7 +2065,8 @@
             },
             "properties":{
                 "name":"The Boma Hotel, Plot 20A Gowers Road, Entebbe, Uganda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-06"
             },
             "type":"Feature"
         },
@@ -1942,7 +2080,8 @@
             },
             "properties":{
                 "name":"Tierra del Fuego, Ushuaia, Argentina",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -1956,7 +2095,8 @@
             },
             "properties":{
                 "name":"Tissamaharama, Sri Lanka",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-11"
             },
             "type":"Feature"
         },
@@ -1970,7 +2110,8 @@
             },
             "properties":{
                 "name":"Tokyo, Japan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-06"
             },
             "type":"Feature"
         },
@@ -1984,7 +2125,8 @@
             },
             "properties":{
                 "name":"Toronto, Canada",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -1998,7 +2140,8 @@
             },
             "properties":{
                 "name":"Turaco Treetops, Kibale Forest National Park, Nkingo, Uganda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-06"
             },
             "type":"Feature"
         },
@@ -2012,7 +2155,8 @@
             },
             "properties":{
                 "name":"Valmeinier, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-01"
             },
             "type":"Feature"
         },
@@ -2026,7 +2170,8 @@
             },
             "properties":{
                 "name":"Venise, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-02"
             },
             "type":"Feature"
         },
@@ -2040,7 +2185,8 @@
             },
             "properties":{
                 "name":"Versailles, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2010-10"
             },
             "type":"Feature"
         },
@@ -2054,7 +2200,8 @@
             },
             "properties":{
                 "name":"Via Giovanni da Procida, Chiaiolella, Procida",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2013-01"
             },
             "type":"Feature"
         },
@@ -2068,7 +2215,8 @@
             },
             "properties":{
                 "name":"Vico dei Maiorani, 80138 Naples, Campania, Italy",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2012-06"
             },
             "type":"Feature"
         },
@@ -2082,7 +2230,8 @@
             },
             "properties":{
                 "name":"Victoria Falls National Park, Zimbabwe",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-05"
             },
             "type":"Feature"
         },
@@ -2096,7 +2245,8 @@
             },
             "properties":{
                 "name":"Vilalara Thalassa, Alporchinhos, 8400-450 Porches, Portugal",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-10"
             },
             "type":"Feature"
         },
@@ -2110,7 +2260,8 @@
             },
             "properties":{
                 "name":"Vilanova i la Geltr\u00fa, Barcelona, Spain",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-10"
             },
             "type":"Feature"
         },
@@ -2124,7 +2275,8 @@
             },
             "properties":{
                 "name":"Vire, France",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2015-08"
             },
             "type":"Feature"
         },
@@ -2138,7 +2290,8 @@
             },
             "properties":{
                 "name":"Volcanoes National Park, Rwanda",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-06"
             },
             "type":"Feature"
         },
@@ -2152,7 +2305,8 @@
             },
             "properties":{
                 "name":"Washington DC, Maryland, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2017-04"
             },
             "type":"Feature"
         },
@@ -2166,7 +2320,8 @@
             },
             "properties":{
                 "name":"Westin Dragonara, Malta",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2025-06"
             },
             "type":"Feature"
         },
@@ -2180,7 +2335,8 @@
             },
             "properties":{
                 "name":"Wilhelmina Bay, Antarctica",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2026-02"
             },
             "type":"Feature"
         },
@@ -2194,7 +2350,8 @@
             },
             "properties":{
                 "name":"Yosemite, California, USA",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-05"
             },
             "type":"Feature"
         },
@@ -2208,7 +2365,8 @@
             },
             "properties":{
                 "name":"Zambezi, Zambia",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-06"
             },
             "type":"Feature"
         },
@@ -2222,7 +2380,8 @@
             },
             "properties":{
                 "name":"Zil Pasyon, Felicite, Seychelles",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2022-05"
             },
             "type":"Feature"
         },
@@ -2236,7 +2395,8 @@
             },
             "properties":{
                 "name":"Zurich, Switzerland",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2011-01"
             },
             "type":"Feature"
         },
@@ -2250,7 +2410,8 @@
             },
             "properties":{
                 "name":"\u65b0\u9a5b\u65c5\u5e97\u5fa9\u8208\u5317\u8def\u5e97, Fuxing N. Rd. Branch, Taipei City, Taiwan",
-                "show_on_map":true
+                "show_on_map":true,
+                "visited":"2016-01"
             },
             "type":"Feature"
         }

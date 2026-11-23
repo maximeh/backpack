@@ -1,161 +1,161 @@
-Vilalara Thalassa, Alporchinhos, 8400-450 Porches, Portugal
-Vilanova i la Geltrú, Barcelona, Spain
-Drake Passage, Southern Ocean | -57.45, -65.6167
-Duperre Bay, Antarctica | -64.4667, -62.8167
-Charlotte Bay, Antarctica | -64.5333, -61.6667
-Portal Point, Antarctica | -64.5, -61.7667
-Gerlache Strait, Antarctica | -64.5667, -62.5
-Lemaire Channel, Antarctica | -65.0833, -63.95
-Pleneau Island, Antarctica | -65.1, -64.0333
-Argentine Islands, Antarctica | -65.25, -64.25
-Etienne Fjord, Antarctica | -65.1167, -63.1667
-Wilhelmina Bay, Antarctica | -64.6833, -62.0333
-Mikkelsen Harbour, Antarctica | -63.9, -60.7833
-Cierva Cove, Antarctica | -64.15, -60.9167
-Tierra del Fuego, Ushuaia, Argentina
-Emperador Hotel Buenos Aires, Argentina
-Sonesta Hotel Posadas del Inca Yucay, Manco II 123, Yucay, Peru
-El MaPi Hotel byInkaterra, Ave Pachacutec 109, Aguas Calientes, Peru
-Casa Andina Standard Cusco Plaza, C. Espinar 142, Cusco, Peru
-Westin Dragonara, Malta
-Saint Malo, France
-Aspaki by Art Maisons, 847 02 Oia, Santorini, Greece
-L7 Str, Lykourgou 7, 105 51 Athens, Greece
-Thawale Lodge, Chikwawa, Malawi
-Nairobi, Kenya
-Buffalo Spring Reserve, Archers Post, Kenya
-Ol Pejeta Conservancy, Nanyuki, Kenya
-Entim camp, Serena, Narok, Kenya
-No.5 Boutique Hotel, Edna Road, Entebbe, Uganda
-Birchwood Hotel & OR Tambo Conference Centre, Viewpoint Street, Bartlett, Boksburg, South Africa
-Benguerra Island, Mariano, Mozambique
-Madrid, Spain
-Hotel Diana, Tossa de Mar, Spain
-Runaway Eco Hotel, Acopampa 02123, Peru
-289 Alexander Street 610, Vancouver, BC V6A 4H6, Canada
-63 Keefer Place 1802, Vancouver, BC V6B 6N6, Canada
-SOHO - Apart House - Kapitan Raycho Nikolov 23, 4000 Kamenitsa 1, Plovdiv, Bulgaria
-Connect Barranco, Barranco, Lima, Peru
-Zil Pasyon, Felicite, Seychelles
-Sable Alley, Okavango Delta, Botswana
-Camp Khalari,Tutume, Botswana
-Zambezi, Zambia
-Victoria Falls National Park, Zimbabwe
-ShearWater Explorers Village, Zimbabwe
-Volcanoes National Park, Rwanda
-Gorilla Mountain View Lodge, Ruhengeri, Rwanda
-Nkuringo Lodge, Kisoro, Uganda
-Kibaale National Park, Uganda
-Turaco Treetops, Kibale Forest National Park, Nkingo, Uganda
-The Boma Hotel, Plot 20A Gowers Road, Entebbe, Uganda
-24787 Taft St, Los Molinos, CA 96055
-6 Kai Ala Dr, Lahaina, HI 96761
-920 Columbine Cir, Markleeville, CA 96120
-Sunnyvale, California, USA
-Cupertino, California, USA
-Gunkanjima, Japan
-Nagasaki, Japan
-Amanohashidate, Japan
-Miyazu, Japan
-Osaka, Japan
-Nagoya, Japan
-163 Rue de Sèvres, 75015 Paris, France
-42 bis Rue Moliere, 93100 Montreuil, France
-Oslo, Norway
-Krakow, Poland
-Prague, Czech Republic
-Colombo, Sri Lanka
-Gale, Sri Lanka
-Matara, Sri Lanka
-Tissamaharama, Sri Lanka
-Ella, Sri Lanka
-Kandy, Sri Lanka
-Negombo, Sri Lanka
-Amsterdam, Holland
-Boston, Massachusetts, USA
-Philadeplhia, Pennsylvania, USA
-Baltimore, Maryland, USA
-Washington DC, Maryland, USA
-Nashville, Tennessee, USA
-Memphis, Mississippi, USA
-Huntsville, Alabama, USA
-New Orleans, Louisiana, USA
-Houston, Texas, USA
-Saint Louis, Missouri, USA
-Chicago, Illinois, USA
-Detroit, Michigan, USA
-Toronto, Canada
-Berlin, Allemagne
-Hamburg, Allemagne
-Edinburgh, United Kingdom
-Santa Clara, California, USA
-Monterey, California, USA
-Santa Barbara, California, USA
-Death Valley, California, USA
-Yosemite, California, USA
-San Fransisco, California, USA
-Le Blanc Taipei, Da’an District, Taipei City, Taiwan
-新驛旅店復興北路店, Fuxing N. Rd. Branch, Taipei City, Taiwan
-Lakeshore Hotel, Hsinchu, Taiwan
-Saint Paul de Vence, France
-Juan les Pins, France
-Cagnes sur Mer, France
-Antibes, France
-Cannes, France
-Monaco
-Nice, France
-Dusseldorf, Allemagne
-Vire, France
-Montceau-les-Mines, France
-21, allee de Brehat - 31770 Colomiers
-Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil
-Tokyo, Japan
-Kyoto, Japan
-Nara, Japan
-Fira Palace, Barcelona, Spain
-Vico dei Maiorani, 80138 Naples, Campania, Italy
-Via Giovanni da Procida, Chiaiolella, Procida
-55 Hunsdon Road, New Cross Gate, London, United Kingdom
-12 Rue de Dantzig, 75015, Paris
-4 Rue Buot, 75013, Paris
-Munster, France
-Strasbourg, France
-Nancy, France
-Biarritz, France
-Belfort, France
-Avignon, France
-Valmeinier, France
-Lyon, France
-Colmar, France
-Pau, France
-Versailles, France
-Barfleur, France
-Brussels, Belgium
-Pohang, South Korea
-Seoul, South Korea
-Busan, South Korea
-Gwangju, South Korea
-Gyeongju, South Korea
-Firenze, Italy
-Bologna, Italy
-Parme, Italy
-Castelnovo Ne' Monti, Italy
-Pisa, Italy
-Venise, Italy
-Siena, Italy
-Montreal, Canada
-New York City, USA
-Marrakesh, Maroco
-Lvov, Ukraine
-Kiev, Ukraine
-Hobart, Tasmania
-Sao Paulo, RMSP, SP, Brazil
-Zurich, Switzerland
-Inaciolandia, Brasil
-Sao Sebastiao, Brasil
-Sao Vicente, Brasil
-Cairo, Egypt
-Sharm el Sheikh, Egypt
-Maldives
-Punta Cana, Dominican Republic
-Arenas Del Mar, Manuel Antonio, Costa Rica | 9.39774, -84.16258
+Vilalara Thalassa, Alporchinhos, 8400-450 Porches, Portugal | 2026-10
+Vilanova i la Geltrú, Barcelona, Spain | 2026-10
+Drake Passage, Southern Ocean | -57.45, -65.6167 | 2026-03
+Duperre Bay, Antarctica | -64.4667, -62.8167 | 2026-02
+Charlotte Bay, Antarctica | -64.5333, -61.6667 | 2026-02
+Portal Point, Antarctica | -64.5, -61.7667 | 2026-02
+Gerlache Strait, Antarctica | -64.5667, -62.5 | 2026-02
+Lemaire Channel, Antarctica | -65.0833, -63.95 | 2026-02
+Pleneau Island, Antarctica | -65.1, -64.0333 | 2026-02
+Argentine Islands, Antarctica | -65.25, -64.25 | 2026-02
+Etienne Fjord, Antarctica | -65.1167, -63.1667 | 2026-02
+Wilhelmina Bay, Antarctica | -64.6833, -62.0333 | 2026-02
+Mikkelsen Harbour, Antarctica | -63.9, -60.7833 | 2026-02
+Cierva Cove, Antarctica | -64.15, -60.9167 | 2026-02
+Tierra del Fuego, Ushuaia, Argentina | 2026-02
+Emperador Hotel Buenos Aires, Argentina | 2026-02
+Sonesta Hotel Posadas del Inca Yucay, Manco II 123, Yucay, Peru | 2025-07
+El MaPi Hotel byInkaterra, Ave Pachacutec 109, Aguas Calientes, Peru | 2025-07
+Casa Andina Standard Cusco Plaza, C. Espinar 142, Cusco, Peru | 2025-07
+Westin Dragonara, Malta | 2025-06
+Saint Malo, France | 2025-06
+Aspaki by Art Maisons, 847 02 Oia, Santorini, Greece | 2024-06
+L7 Str, Lykourgou 7, 105 51 Athens, Greece | 2024-05
+Thawale Lodge, Chikwawa, Malawi | 2023-09
+Nairobi, Kenya | 2023-08
+Buffalo Spring Reserve, Archers Post, Kenya | 2023-08
+Ol Pejeta Conservancy, Nanyuki, Kenya | 2023-08
+Entim camp, Serena, Narok, Kenya | 2023-09
+No.5 Boutique Hotel, Edna Road, Entebbe, Uganda | 2023-08
+Birchwood Hotel & OR Tambo Conference Centre, Viewpoint Street, Bartlett, Boksburg, South Africa | 2023-09
+Benguerra Island, Mariano, Mozambique | 2023-09
+Madrid, Spain | 2024-06
+Hotel Diana, Tossa de Mar, Spain | 2023-05
+Runaway Eco Hotel, Acopampa 02123, Peru | 2023-01
+289 Alexander Street 610, Vancouver, BC V6A 4H6, Canada | 2022-09
+63 Keefer Place 1802, Vancouver, BC V6B 6N6, Canada | 2022-09
+SOHO - Apart House - Kapitan Raycho Nikolov 23, 4000 Kamenitsa 1, Plovdiv, Bulgaria | 2022-08
+Connect Barranco, Barranco, Lima, Peru | 2022-07
+Zil Pasyon, Felicite, Seychelles | 2022-05
+Sable Alley, Okavango Delta, Botswana | 2022-05
+Camp Khalari,Tutume, Botswana | 2022-06
+Zambezi, Zambia | 2022-06
+Victoria Falls National Park, Zimbabwe | 2022-05
+ShearWater Explorers Village, Zimbabwe | 2022-05
+Volcanoes National Park, Rwanda | 2022-06
+Gorilla Mountain View Lodge, Ruhengeri, Rwanda | 2022-05
+Nkuringo Lodge, Kisoro, Uganda | 2022-05
+Kibaale National Park, Uganda | 2022-06
+Turaco Treetops, Kibale Forest National Park, Nkingo, Uganda | 2022-06
+The Boma Hotel, Plot 20A Gowers Road, Entebbe, Uganda | 2022-06
+24787 Taft St, Los Molinos, CA 96055 | 2021-01
+6 Kai Ala Dr, Lahaina, HI 96761 | 2020-10
+920 Columbine Cir, Markleeville, CA 96120 | 2020-10
+Sunnyvale, California, USA | 2016-05
+Cupertino, California, USA | 2016-05
+Gunkanjima, Japan | 2018-07
+Nagasaki, Japan | 2018-07
+Amanohashidate, Japan | 2018-07
+Miyazu, Japan | 2018-07
+Osaka, Japan | 2018-07
+Nagoya, Japan | 2018-07
+163 Rue de Sèvres, 75015 Paris, France | 2014-04
+42 bis Rue Moliere, 93100 Montreuil, France | 2014-04
+Oslo, Norway | 2017-11
+Krakow, Poland | 2017-11
+Prague, Czech Republic | 2017-10
+Colombo, Sri Lanka | 2017-09
+Gale, Sri Lanka | 2017-11
+Matara, Sri Lanka | 2017-11
+Tissamaharama, Sri Lanka | 2017-11
+Ella, Sri Lanka | 2017-09
+Kandy, Sri Lanka | 2017-11
+Negombo, Sri Lanka | 2017-11
+Amsterdam, Holland | 2017-04
+Boston, Massachusetts, USA | 2017-04
+Philadeplhia, Pennsylvania, USA | 2017-01
+Baltimore, Maryland, USA | 2017-04
+Washington DC, Maryland, USA | 2017-04
+Nashville, Tennessee, USA | 2017-01
+Memphis, Mississippi, USA | 2017-04
+Huntsville, Alabama, USA | 2017-01
+New Orleans, Louisiana, USA | 2017-04
+Houston, Texas, USA | 2017-04
+Saint Louis, Missouri, USA | 2017-04
+Chicago, Illinois, USA | 2017-04
+Detroit, Michigan, USA | 2017-04
+Toronto, Canada | 2017-04
+Berlin, Allemagne | 2016-10
+Hamburg, Allemagne | 2017-04
+Edinburgh, United Kingdom | 2017-04
+Santa Clara, California, USA | 2016-05
+Monterey, California, USA | 2016-06
+Santa Barbara, California, USA | 2016-07
+Death Valley, California, USA | 2016-07
+Yosemite, California, USA | 2016-05
+San Fransisco, California, USA | 2016-07
+Le Blanc Taipei, Da’an District, Taipei City, Taiwan | 2016-01
+新驛旅店復興北路店, Fuxing N. Rd. Branch, Taipei City, Taiwan | 2016-01
+Lakeshore Hotel, Hsinchu, Taiwan | 2016-02
+Saint Paul de Vence, France | 2015-08
+Juan les Pins, France | 2015-08
+Cagnes sur Mer, France | 2015-08
+Antibes, France | 2015-08
+Cannes, France | 2015-08
+Monaco | 2015-08
+Nice, France | 2015-08
+Dusseldorf, Allemagne | 2015-08
+Vire, France | 2015-08
+Montceau-les-Mines, France | 2015-02
+21, allee de Brehat - 31770 Colomiers | 2015-08
+Rio de Janeiro, Regiao Metropolitana do Rio de Janeiro, Rio de Janeiro, Regiao Sudeste, Brazil | 2013-08
+Tokyo, Japan | 2013-06
+Kyoto, Japan | 2013-06
+Nara, Japan | 2013-06
+Fira Palace, Barcelona, Spain | 2012-11
+Vico dei Maiorani, 80138 Naples, Campania, Italy | 2012-06
+Via Giovanni da Procida, Chiaiolella, Procida | 2013-01
+55 Hunsdon Road, New Cross Gate, London, United Kingdom | 2012-05
+12 Rue de Dantzig, 75015, Paris | 2012-02
+4 Rue Buot, 75013, Paris | 2012-02
+Munster, France | 2012-02
+Strasbourg, France | 2012-02
+Nancy, France | 2012-02
+Biarritz, France | 2012-02
+Belfort, France | 2012-02
+Avignon, France | 2012-02
+Valmeinier, France | 2013-01
+Lyon, France | 2012-02
+Colmar, France | 2012-02
+Pau, France | 2012-02
+Versailles, France | 2010-10
+Barfleur, France | 2012-02
+Brussels, Belgium | 2009-05
+Pohang, South Korea | 2008-09
+Seoul, South Korea | 2012-02
+Busan, South Korea | 2012-02
+Gwangju, South Korea | 2013-01
+Gyeongju, South Korea | 2008-10
+Firenze, Italy | 2009-11
+Bologna, Italy | 2012-02
+Parme, Italy | 2012-02
+Castelnovo Ne' Monti, Italy | 2013-02
+Pisa, Italy | 2012-02
+Venise, Italy | 2012-02
+Siena, Italy | 2012-02
+Montreal, Canada | 2010-07
+New York City, USA | 2010-07
+Marrakesh, Maroco | 2010-12
+Lvov, Ukraine | 2012-02
+Kiev, Ukraine | 2004-03
+Hobart, Tasmania | 2012-02
+Sao Paulo, RMSP, SP, Brazil | 2013-09
+Zurich, Switzerland | 2011-01
+Inaciolandia, Brasil | 2012-02
+Sao Sebastiao, Brasil | 2012-02
+Sao Vicente, Brasil | 2011-08
+Cairo, Egypt | 2022-10
+Sharm el Sheikh, Egypt | 2013-01
+Maldives | 2005-04
+Punta Cana, Dominican Republic | 2012-02
+Arenas Del Mar, Manuel Antonio, Costa Rica | 9.39774, -84.16258 | 2026-11

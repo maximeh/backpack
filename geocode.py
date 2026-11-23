@@ -8,8 +8,9 @@ import requests
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
 
+import places_log
+
 URL = "https://maps.googleapis.com/maps/api/geocode/json"
-JSON_FILENAME = "places.geojson"
 KEY_FILENAME = "gmaps.key"
 
 
@@ -44,29 +45,18 @@ def main():
     with open(f"{path}{KEY_FILENAME}", "r", encoding="UTF-8") as key_file:
         key = key_file.readline().strip()
 
-    json_path = f"{path}{JSON_FILENAME}"
+    json_path = f"{path}{places_log.JSON_FILENAME}"
     try:
-        with open(f"{path}places_log.txt", "r", encoding="UTF-8") as places_file:
-            places = []
-            manual_coords = {}
-            for line in places_file:
-                line = line.strip()
-                if not line:
-                    continue
-                if "|" in line:
-                    name, coords_str = line.split("|", 1)
-                    name = name.strip()
-                    lat_str, lng_str = coords_str.strip().split(",")
-                    manual_coords[name] = (float(lat_str.strip()), float(lng_str.strip()))
-                    places.append(name)
-                else:
-                    places.append(line)
-            if len(set(places)) != len(places):
-                print("You have double entry in 'places_log.txt'; fix that.")
-                return 1
+        log = places_log.read(path)
     except IOError as err:
         print(f"I/O error({err.errno}): {err.strerror}")
         return 1
+    except ValueError as err:
+        print(err)
+        return 1
+    places = [place.name for place in log]
+    manual_coords = {place.name: place.coords for place in log if place.coords}
+    visited = {place.name: place.visited for place in log if place.visited}
 
     try:
         with open(json_path, "r", encoding="UTF-8") as places_gps_file:
@@ -110,6 +100,13 @@ def main():
             if point is None:
                 continue
         features.append(point)
+
+    for feat in features:
+        props = feat["properties"]
+        if props["name"] in visited:
+            props["visited"] = visited[props["name"]]
+        else:
+            props.pop("visited", None)
 
     features = sorted(features, key=lambda x: x["properties"]["name"])
 
