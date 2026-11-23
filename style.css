@@ -65,3 +65,72 @@ html, body {
 .leaflet-label-left:after {
     content: "";
 }
+
+#timeline {
+    --surface-1: #fcfcfb;
+    --text-primary: #0b0b0b;
+    --text-secondary: #52514e;
+    --grid: #e4e3df;
+    --series-1: #2a78d6;
+    position: absolute;
+    left: 10px;
+    bottom: 24px;
+    z-index: 1000;
+    padding: 8px 12px 22px;
+    border-radius: 8px;
+    background: var(--surface-1);
+    color: var(--text-primary);
+    font: 12px/1.4 -apple-system, "Helvetica Neue", Arial, sans-serif;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3);
+}
+@media (prefers-color-scheme: dark) {
+    #timeline {
+        --surface-1: #1a1a19;
+        --text-primary: #ffffff;
+        --text-secondary: #c3c2b7;
+        --grid: #3a3a38;
+        --series-1: #3987e5;
+    }
+}
+#summary {
+    margin: 0 0 6px;
+    font-weight: bold;
+}
+#years {
+    display: flex;
+    align-items: flex-end;
+    height: 72px;
+    border-bottom: 1px solid var(--grid);
+}
+#years button {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: center;
+    width: 20px;
+    height: 100%;
+    margin: 0 1px;
+    padding: 0;
+    border: 0;
+    background: none;
+    cursor: pointer;
+    position: relative;
+}
+#years .bar {
+    width: 12px;
+    border-radius: 4px 4px 0 0;
+    background: var(--series-1);
+}
+#years .label {
+    position: absolute;
+    bottom: -16px;
+    color: var(--text-secondary);
+    font-size: 10px;
+}
+#years:has([aria-pressed="true"]) button:not([aria-pressed="true"]) .bar {
+    opacity: 0.3;
+}
+#years button:focus-visible {
+    outline: 2px solid var(--series-1);
+    outline-offset: 1px;
+}
