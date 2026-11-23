@@ -663,6 +663,21 @@
         {
             "geometry":{
                 "coordinates":[
+                    4.821,
+                    45.8336
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Demeure du Chaos, Saint-Romain-au-Mont-d'Or, France",
+                "show_on_map":true,
+                "visited":"2010-06"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -83.0457538,
                     42.331427
                 ],
@@ -1692,6 +1707,21 @@
                 "name":"Pohang, South Korea",
                 "show_on_map":true,
                 "visited":"2008-09"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
+                    14.485,
+                    40.7489
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Pompeii, Italy",
+                "show_on_map":true,
+                "visited":"2012-06"
             },
             "type":"Feature"
         },
