@@ -1,4 +1,4 @@
-"""One place per line of places_log.txt: `Name[ | lat, lng][ | YYYY-MM]`."""
+"""One place per line of places_log.txt: `Name[ | lat, lng][ | YYYY-MM or unknown]`."""
 
 import datetime
 import os
@@ -7,13 +7,14 @@ from dataclasses import dataclass
 
 LOG_FILENAME = "places_log.txt"
 JSON_FILENAME = "places.geojson"
+UNKNOWN_VISIT = "unknown"  # first visit too long ago to date
 
 
 @dataclass
 class Place:
     name: str
     coords: tuple[float, float] | None = None  # (lat, lng); skips geocoding
-    visited: str | None = None  # first visit, "YYYY-MM"
+    visited: str | None = None  # first visit, "YYYY-MM" or UNKNOWN_VISIT
 
 
 def parse_line(line):
@@ -23,7 +24,8 @@ def parse_line(line):
     place = Place(fields[0])
     for field in fields[1:]:
         if "," not in field:
-            datetime.datetime.strptime(field, "%Y-%m")  # raises on a bad month
+            if field != UNKNOWN_VISIT:
+                datetime.datetime.strptime(field, "%Y-%m")  # raises on a bad month
             place.visited = field
         else:
             lat, lng = field.split(",")

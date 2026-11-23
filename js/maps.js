@@ -9,7 +9,8 @@ function show(feature) {
 function addTooltip(feature, layer) {
   if (feature.properties && feature.properties.name) {
     const visited = feature.properties.visited;
-    const when = visited ? '<br>' + new Date(visited).toLocaleDateString('en', {month: 'short', year: 'numeric', timeZone: 'UTC'}) : '';
+    const when = !visited ? '' : visited === 'unknown' ? '<br>Date unknown'
+      : '<br>' + new Date(visited).toLocaleDateString('en', {month: 'short', year: 'numeric', timeZone: 'UTC'});
     layer.bindTooltip('<b>' + feature.properties.name + '</b>' + when);
   }
 }
@@ -35,7 +36,7 @@ function addData() {
   fetch('places.geojson')
     .then(response => response.json())
     .then(data => {
-      // Drop the markers in the order of the first visit; undated places go last.
+      // Drop the markers in the order of the first visit; 'unknown' and undated places go last.
       const features = data.features.filter(show);
       features.sort((a, b) => (a.properties.visited || '9999').localeCompare(b.properties.visited || '9999'));
       let i = 0;

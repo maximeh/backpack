@@ -11,7 +11,7 @@
             "properties":{
                 "name":"12 Rue de Dantzig, 75015, Paris",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -86,7 +86,7 @@
             "properties":{
                 "name":"4 Rue Buot, 75013, Paris",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -266,7 +266,7 @@
             "properties":{
                 "name":"Avignon, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -356,7 +356,7 @@
             "properties":{
                 "name":"Biarritz, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -386,7 +386,7 @@
             "properties":{
                 "name":"Bologna, Italy",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -446,7 +446,7 @@
             "properties":{
                 "name":"Busan, South Korea",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -596,7 +596,7 @@
             "properties":{
                 "name":"Colmar, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -971,7 +971,7 @@
             "properties":{
                 "name":"Hobart, Tasmania",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1031,7 +1031,7 @@
             "properties":{
                 "name":"Inaciolandia, Brasil",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1196,7 +1196,7 @@
             "properties":{
                 "name":"Lvov, Ukraine",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1211,7 +1211,7 @@
             "properties":{
                 "name":"Lyon, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1391,7 +1391,7 @@
             "properties":{
                 "name":"Munster, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1631,7 +1631,7 @@
             "properties":{
                 "name":"Parme, Italy",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1646,7 +1646,7 @@
             "properties":{
                 "name":"Pau, France",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1676,7 +1676,7 @@
             "properties":{
                 "name":"Pisa, Italy",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1766,7 +1766,7 @@
             "properties":{
                 "name":"Punta Cana, Dominican Republic",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1961,7 +1961,7 @@
             "properties":{
                 "name":"Sao Sebastiao, Brasil",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -1991,7 +1991,7 @@
             "properties":{
                 "name":"Seoul, South Korea",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },
@@ -2036,7 +2036,7 @@
             "properties":{
                 "name":"Siena, Italy",
                 "show_on_map":true,
-                "visited":"2012-02"
+                "visited":"unknown"
             },
             "type":"Feature"
         },

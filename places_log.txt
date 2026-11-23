@@ -116,48 +116,48 @@ Fira Palace, Barcelona, Spain | 2012-11
 Vico dei Maiorani, 80138 Naples, Campania, Italy | 2012-06
 Via Giovanni da Procida, Chiaiolella, Procida | 2013-01
 55 Hunsdon Road, New Cross Gate, London, United Kingdom | 2012-05
-12 Rue de Dantzig, 75015, Paris | 2012-02
-4 Rue Buot, 75013, Paris | 2012-02
-Munster, France | 2012-02
+12 Rue de Dantzig, 75015, Paris | unknown
+4 Rue Buot, 75013, Paris | unknown
+Munster, France | unknown
 Strasbourg, France | 2009-11
 Nancy, France | 2004-01
-Biarritz, France | 2012-02
+Biarritz, France | unknown
 Belfort, France | 2006-10
-Avignon, France | 2012-02
+Avignon, France | unknown
 Valmeinier, France | 2013-01
-Lyon, France | 2012-02
-Colmar, France | 2012-02
-Pau, France | 2012-02
+Lyon, France | unknown
+Colmar, France | unknown
+Pau, France | unknown
 Versailles, France | 2010-10
 Barfleur, France | 2011-07
 Brussels, Belgium | 2009-05
 Pohang, South Korea | 2008-09
-Seoul, South Korea | 2012-02
-Busan, South Korea | 2012-02
+Seoul, South Korea | unknown
+Busan, South Korea | unknown
 Gwangju, South Korea | 2013-01
 Gyeongju, South Korea | 2008-10
 Firenze, Italy | 2009-11
-Bologna, Italy | 2012-02
-Parme, Italy | 2012-02
+Bologna, Italy | unknown
+Parme, Italy | unknown
 Castelnovo Ne' Monti, Italy | 2013-02
-Pisa, Italy | 2012-02
+Pisa, Italy | unknown
 Venise, Italy | 2012-02
-Siena, Italy | 2012-02
+Siena, Italy | unknown
 Montreal, Canada | 2010-07
 New York City, USA | 2010-07
 Marrakesh, Maroco | 2010-12
-Lvov, Ukraine | 2012-02
+Lvov, Ukraine | unknown
 Kiev, Ukraine | 2004-03
-Hobart, Tasmania | 2012-02
+Hobart, Tasmania | unknown
 Sao Paulo, RMSP, SP, Brazil | 2013-09
 Zurich, Switzerland | 2011-01
-Inaciolandia, Brasil | 2012-02
-Sao Sebastiao, Brasil | 2012-02
+Inaciolandia, Brasil | unknown
+Sao Sebastiao, Brasil | unknown
 Sao Vicente, Brasil | 2011-08
 Cairo, Egypt | 2022-10
 Sharm el Sheikh, Egypt | 2013-01
 Maldives | 2005-04
-Punta Cana, Dominican Republic | 2012-02
+Punta Cana, Dominican Republic | unknown
 Arenas Del Mar, Manuel Antonio, Costa Rica | 9.39774, -84.16258 | 2026-11
 Saint-Saturnin-lès-Avignon, France | 43.954, 4.924 | 2007-07
 Demeure du Chaos, Saint-Romain-au-Mont-d'Or, France | 45.8336, 4.821 | 2010-06

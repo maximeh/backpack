@@ -30,6 +30,9 @@ class ParseLineTest(unittest.TestCase):
             Place("Arenas Del Mar, Costa Rica", coords=(9.39774, -84.16258), visited="2026-11"),
         )
 
+    def test_unknown_visit(self):
+        self.assertEqual(parse_line("Pisa, Italy | unknown"), Place("Pisa, Italy", visited="unknown"))
+
     def test_impossible_month_raises(self):
         with self.assertRaises(ValueError):
             parse_line("Cairo, Egypt | 2019-13")
@@ -44,6 +47,7 @@ class FormatLineTest(unittest.TestCase):
         for line in [
             "Cairo, Egypt",
             "Cairo, Egypt | 2019-03",
+            "Pisa, Italy | unknown",
             "Drake Passage, Southern Ocean | -57.45, -65.6167",
             "Arenas Del Mar, Costa Rica | 9.39774, -84.16258 | 2026-11",
         ]:
