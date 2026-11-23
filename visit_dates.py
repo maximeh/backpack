@@ -60,6 +60,19 @@ def first_visit(photo_month, logged_month):
     return min(filter(None, (photo_month, logged_month)), default=None)
 
 
+def fill_visits(log, geocoded, photos, logged):
+    """Date each place with no visit yet, leaving unknown ones alone; count the sources used."""
+    sources = collections.Counter()
+    for place in log:
+        if place.visited:
+            continue
+        coords = place.coords or geocoded.get(place.name)
+        photo_month = earliest_photo_month(coords, photos) if coords else None
+        place.visited = first_visit(photo_month, logged.get(place.name))
+        sources["none" if not place.visited else "photo" if place.visited == photo_month else "git"] += 1
+    return sources
+
+
 def read_photos(db_path):
     epoch = datetime.datetime(2001, 1, 1)
     db = sqlite3.connect(f"file:{os.path.expanduser(db_path)}?mode=ro", uri=True)
@@ -92,15 +105,7 @@ def main():
     photos = read_photos(PHOTOS_DB)
     logged = first_added_months(read_git_log(path))
 
-    sources = collections.Counter()
-    for place in log:
-        if place.visited:
-            continue
-        coords = place.coords or geocoded.get(place.name)
-        photo_month = earliest_photo_month(coords, photos) if coords else None
-        place.visited = first_visit(photo_month, logged.get(place.name))
-        sources["none" if not place.visited else "photo" if place.visited == photo_month else "git"] += 1
-
+    sources = fill_visits(log, geocoded, photos, logged)
     places_log.write(path, log)
     print(f"Dated {sources['photo']} places from photos, {sources['git']} from git; {sources['none']} left undated.")
     return 0

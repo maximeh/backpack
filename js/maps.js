@@ -1,6 +1,19 @@
 import {Map, TileLayer, Marker, GeoJSON} from 'leaflet';
 
 let map;
+const UNKNOWN_VISIT = 'unknown';  // places_log.UNKNOWN_VISIT
+
+// Sort key for the first visit: dated places first, then unknown and undated ones.
+function visitKey(feature) {
+  const visited = feature.properties.visited;
+  return visited && visited !== UNKNOWN_VISIT ? visited : '9999';
+}
+
+function firstVisitLabel(visited) {
+  if (!visited) return '';
+  if (visited === UNKNOWN_VISIT) return '<br>Date unknown';
+  return '<br>' + new Date(visited).toLocaleDateString('en', {month: 'short', year: 'numeric', timeZone: 'UTC'});
+}
 
 function show(feature) {
   return feature.properties.show_on_map;
@@ -8,10 +21,7 @@ function show(feature) {
 
 function addTooltip(feature, layer) {
   if (feature.properties && feature.properties.name) {
-    const visited = feature.properties.visited;
-    const when = !visited ? '' : visited === 'unknown' ? '<br>Date unknown'
-      : '<br>' + new Date(visited).toLocaleDateString('en', {month: 'short', year: 'numeric', timeZone: 'UTC'});
-    layer.bindTooltip('<b>' + feature.properties.name + '</b>' + when);
+    layer.bindTooltip('<b>' + feature.properties.name + '</b>' + firstVisitLabel(feature.properties.visited));
   }
 }
 
@@ -36,9 +46,9 @@ function addData() {
   fetch('places.geojson')
     .then(response => response.json())
     .then(data => {
-      // Drop the markers in the order of the first visit; 'unknown' and undated places go last.
+      // Drop the markers in the order of the first visit.
       const features = data.features.filter(show);
-      features.sort((a, b) => (a.properties.visited || '9999').localeCompare(b.properties.visited || '9999'));
+      features.sort((a, b) => visitKey(a).localeCompare(visitKey(b)));
       let i = 0;
       const addFeat = setInterval(function() {
         if (i < features.length) addFeature(features[i++]);

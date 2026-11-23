@@ -2,7 +2,7 @@ import os
 import tempfile
 import unittest
 
-from places_log import LOG_FILENAME, Place, format_line, parse_line, read, write
+from places_log import LOG_FILENAME, UNKNOWN_VISIT, Place, format_line, parse_line, read, write
 
 
 class ParseLineTest(unittest.TestCase):
@@ -31,10 +31,10 @@ class ParseLineTest(unittest.TestCase):
         )
 
     def test_unknown_visit(self):
-        self.assertEqual(parse_line("Pisa, Italy | unknown"), Place("Pisa, Italy", visited="unknown"))
+        self.assertEqual(parse_line("Pisa, Italy | unknown"), Place("Pisa, Italy", visited=UNKNOWN_VISIT))
 
     def test_impossible_month_raises(self):
-        with self.assertRaises(ValueError):
+        with self.assertRaisesRegex(ValueError, "YYYY-MM or 'unknown'"):
             parse_line("Cairo, Egypt | 2019-13")
 
     def test_malformed_field_raises(self):

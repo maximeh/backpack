@@ -25,7 +25,10 @@ def parse_line(line):
     for field in fields[1:]:
         if "," not in field:
             if field != UNKNOWN_VISIT:
-                datetime.datetime.strptime(field, "%Y-%m")  # raises on a bad month
+                try:
+                    datetime.datetime.strptime(field, "%Y-%m")
+                except ValueError:
+                    raise ValueError(f"visit {field!r} is not YYYY-MM or '{UNKNOWN_VISIT}'") from None
             place.visited = field
         else:
             lat, lng = field.split(",")

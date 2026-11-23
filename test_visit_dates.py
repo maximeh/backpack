@@ -2,7 +2,8 @@ import contextlib
 import io
 import unittest
 
-from visit_dates import earliest_photo_month, first_added_months, first_visit
+from places_log import UNKNOWN_VISIT, Place
+from visit_dates import earliest_photo_month, fill_visits, first_added_months, first_visit
 
 GIT_LOG = """\x002012-09
 diff --git a/places_log.txt b/places_log.txt
@@ -63,6 +64,14 @@ class FirstVisitTest(unittest.TestCase):
         self.assertEqual(first_visit(None, "2012-09"), "2012-09")
         self.assertEqual(first_visit("2011-04", None), "2011-04")
         self.assertIsNone(first_visit(None, None))
+
+
+class FillVisitsTest(unittest.TestCase):
+    def test_fills_only_places_without_a_visit(self):
+        log = [Place("Paris", coords=PARIS), Place("Pisa", visited=UNKNOWN_VISIT), Place("London", visited="2010-01")]
+        sources = fill_visits(log, {}, [("2017-08", *PARIS)], {"Pisa": "2012-02", "London": "2012-02"})
+        self.assertEqual([place.visited for place in log], ["2017-08", UNKNOWN_VISIT, "2010-01"])
+        self.assertEqual(sources["photo"], 1)
 
 
 if __name__ == "__main__":
