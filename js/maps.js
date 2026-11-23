@@ -1,8 +1,8 @@
-import L, {Map, TileLayer, Marker, GeoJSON} from 'leaflet';
+import {Map, TileLayer, Marker, GeoJSON} from 'leaflet';
 
 let map;
 
-function show(feature, layer) {
+function show(feature) {
   return feature.properties.show_on_map;
 }
 
