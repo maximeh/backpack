@@ -1848,6 +1848,21 @@
         {
             "geometry":{
                 "coordinates":[
+                    4.924,
+                    43.954
+                ],
+                "type":"Point"
+            },
+            "properties":{
+                "name":"Saint-Saturnin-l\u00e8s-Avignon, France",
+                "show_on_map":true,
+                "visited":"2007-07"
+            },
+            "type":"Feature"
+        },
+        {
+            "geometry":{
+                "coordinates":[
                     -122.4194155,
                     37.7749295
                 ],

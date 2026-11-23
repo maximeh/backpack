@@ -159,3 +159,4 @@ Sharm el Sheikh, Egypt | 2013-01
 Maldives | 2005-04
 Punta Cana, Dominican Republic | 2012-02
 Arenas Del Mar, Manuel Antonio, Costa Rica | 9.39774, -84.16258 | 2026-11
+Saint-Saturnin-lès-Avignon, France | 43.954, 4.924 | 2007-07
